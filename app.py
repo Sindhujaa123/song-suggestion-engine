@@ -1,4 +1,6 @@
-from urllib.parse import quote_plus
+import json
+from pathlib import Path
+from html import escape
 
 import streamlit as st
 
@@ -6,6 +8,16 @@ from offline_catalog import MOODS, SONGS
 
 
 st.set_page_config(page_title="MoodMix · Find your feeling", page_icon="♫", layout="wide")
+MEDIA_FILE = Path(__file__).with_name("catalog_media.json")
+
+
+def bundled_media() -> dict[str, dict[str, str]]:
+    if not MEDIA_FILE.exists():
+        return {}
+    try:
+        return json.loads(MEDIA_FILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
 
 
 def add_styles() -> None:
@@ -24,7 +36,7 @@ def add_styles() -> None:
     .hero p { max-width:620px; color:#b1afba; font-size:1.02rem; line-height:1.65; }
     .section-label { color:#aaa9b5; font-size:.75rem; font-weight:700; letter-spacing:.13em; text-transform:uppercase; margin:.35rem 0 .85rem; }
     .song-card { display:flex; gap:15px; padding:14px; min-height:164px; border:1px solid var(--line); border-radius:18px; background:linear-gradient(145deg,rgba(255,255,255,.055),rgba(255,255,255,.018)); margin:0 0 12px; }
-    .art-placeholder { width:106px; height:106px; flex:0 0 106px; display:grid; place-items:center; border-radius:12px; background:linear-gradient(145deg,#343047,#20202b 72%); color:#d5f36a; font-size:2rem; }
+    .art-placeholder { width:106px; height:106px; flex:0 0 106px; display:grid; place-items:center; border-radius:12px; background:linear-gradient(145deg,#343047,#20202b 72%); color:#d5f36a; font-size:2rem; object-fit:cover; }
     .song-title { font:700 1rem Arial,sans-serif; color:#f4f2ed; margin:3px 0; }
     .song-artist { color:#b0aeb9; font-size:.86rem; }
     .pill-row { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
@@ -35,16 +47,18 @@ def add_styles() -> None:
     </style>""", unsafe_allow_html=True)
 
 
-def render_song(song: dict[str, object], country: str, index: int) -> None:
+def render_song(song: dict[str, object], index: int, media_index: dict[str, dict[str, str]]) -> None:
     title = str(song["title"])
     artist = str(song["artist"])
     score = int(song["score"])
     why = str(song["why"])
-    query = quote_plus(f"{title} {artist}")
-    listen_url = f"https://music.apple.com/{country.lower()}/search?term={query}"
+    media = media_index.get(f"{title.casefold()}|{artist.casefold()}", {})
+    listen_url = media.get("listen_url", "")
+    artwork = media.get("artwork_url")
+    cover = f'<img class="art-placeholder" src="{escape(artwork, quote=True)}" alt="Album artwork">' if artwork else '<div class="art-placeholder" aria-label="Album artwork unavailable">♫</div>'
     st.markdown(
         f"""<div class="song-card">
-        <div class="art-placeholder" aria-label="Album artwork unavailable in offline mode">♫</div>
+        {cover}
         <div><div class="song-title">{title}</div><div class="song-artist">{artist}</div>
         <div class="pill-row"><span class="pill pill-score">{score}% curated mood fit</span>
         <span class="pill">Energy unavailable offline</span><span class="pill">BPM unavailable offline</span></div>
@@ -52,10 +66,12 @@ def render_song(song: dict[str, object], country: str, index: int) -> None:
         unsafe_allow_html=True,
     )
     left, right = st.columns([1, 5])
-    with left:
-        st.link_button("Find to listen ↗", listen_url, use_container_width=True, key=f"listen-{index}-{query}")
-    with right:
-        st.caption("No preview is bundled. The button opens an Apple Music search for this title and artist.")
+    if listen_url:
+        with left:
+            st.link_button("Listen ↗", listen_url, use_container_width=True, key=f"listen-{index}-{title.casefold()}")
+    if media.get("preview_url"):
+        with right:
+            st.audio(media["preview_url"], format="audio/mp4")
 
 
 def main() -> None:
@@ -64,11 +80,11 @@ def main() -> None:
         st.markdown('<div class="brand">mood<b>mix</b> ♫</div>', unsafe_allow_html=True)
         st.markdown("### Pick a mood")
         mood = st.selectbox("Mood", list(MOODS), label_visibility="collapsed")
-        country = st.selectbox("Listening link region", ["US", "CA", "GB", "AU", "IN"], index=0)
         st.markdown("---")
         st.caption("Offline catalogue · no music APIs or credentials needed")
 
     info = MOODS[mood]
+    media_index = bundled_media()
     st.markdown(
         f'<div class="hero"><div class="eyebrow">A soundtrack for right now</div><h1>Find your<br><span>feeling.</span></h1><p>Mood first. Genre second. Browse a small, bundled collection of real songs without waiting on music API services.</p></div>',
         unsafe_allow_html=True,
@@ -76,13 +92,13 @@ def main() -> None:
     st.markdown(f'<div class="section-label">{info["emoji"]} &nbsp; {mood} mood &nbsp; · &nbsp; {info["description"]}</div>', unsafe_allow_html=True)
     songs = [song for song in SONGS if song["mood"] == mood]
     songs.sort(key=lambda song: int(song["score"]), reverse=True)
-    st.info("Mood scores are editorial fits from the bundled catalogue. This offline version has no sourced energy/BPM data, artwork, or official previews, so those are marked unavailable.")
+    st.info("Mood scores are editorial fits, not audio-feature calculations. Direct listening links, artwork, and available official previews are bundled; this catalogue has no energy or BPM data.")
     st.markdown(f"**{len(songs)} curated picks** · bundled locally · no catalog requests")
     left, right = st.columns(2)
     for index, song in enumerate(songs):
         target = left if index % 2 == 0 else right
         with target:
-            render_song(song, country, index)
+            render_song(song, index, media_index)
 
 
 if __name__ == "__main__":

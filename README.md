@@ -23,10 +23,10 @@ $env:STREAMLIT_CONFIG_DIR = (Join-Path (Get-Location) '.streamlit')
 .venv\Scripts\streamlit.exe run app.py
 ```
 
-## Offline catalog limits
+## Bundled catalog
 
-- Song titles, artists, mood notes, and editorial fit scores are bundled in `offline_catalog.py`.
-- The fit score is a human-curated mood fit, not an audio-feature calculation.
-- Energy, BPM, album artwork, and official previews are not bundled and are shown as unavailable. MoodMix does not estimate or invent them.
-- “Find to listen” opens a search for that title and artist on Apple Music. The link is a search link, not a verified direct song URL.
+- Each of the ten moods has at least ten curated song picks in `offline_catalog.py`.
+- Verified Apple Music track links, album artwork URLs, and available official previews are stored in `catalog_media.json`. They are bundled; the app makes no catalog API calls while users browse.
+- Some songs intentionally appear in more than one mood collection so every category has ten verified listening links.
+- The displayed fit score is editorial, not an audio-feature calculation. Energy and BPM are not included and are never guessed.
 - The app does not download or redistribute music.

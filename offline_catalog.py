@@ -1,4 +1,4 @@
-"""Small, bundled MoodMix starter catalog. No network calls are made to build suggestions."""
+"""Bundled editorial recommendations. The app makes no music API calls at runtime."""
 
 MOODS = {
     "Happy": {"emoji": "☀️", "description": "Bright, buoyant songs for a lift."},
@@ -13,37 +13,199 @@ MOODS = {
     "Dreamy": {"emoji": "☁️", "description": "Floaty textures and a soft sense of wonder."},
 }
 
-# Curated titles and artists only. No audio features, artwork, previews, albums, or
-# track URLs are stored here; the app must not infer or fabricate those fields.
+# Every title and artist is a hand-selected real-world track. Scores are editorial
+# mood-fit ratings, not measured acoustic features. Links/artwork/previews are added
+# to the bundled media index and are never fetched from a music API by the app.
+MOOD_SONGS = {
+    "Happy": [
+        ("Lovely Day", "Bill Withers", "A warm vocal and easygoing feel make this a sunny pick."),
+        ("Walking on Sunshine", "Katrina and the Waves", "An exuberant sing-along with an unmistakably cheerful mood."),
+        ("September", "Earth, Wind & Fire", "A celebratory classic with a bright, joyful character."),
+        ("Good as Hell", "Lizzo", "An affirming message and confident delivery give it a feel-good lift."),
+        ("Happy", "Pharrell Williams", "A buoyant celebration built around a simple, joyful hook."),
+        ("I Wanna Dance with Somebody", "Whitney Houston", "A joyful pop chorus made for singing along."),
+        ("Here Comes the Sun", "The Beatles", "A hopeful song about brighter days arriving."),
+        ("Can't Stop the Feeling!", "Justin Timberlake", "A playful, upbeat pop song with a sunny outlook."),
+        ("Three Little Birds", "Bob Marley & The Wailers", "A reassuring message delivered with a relaxed, positive spirit."),
+        ("Unwritten", "Natasha Bedingfield", "An optimistic reminder that the next chapter is still open."),
+    ],
+    "Sad": [
+        ("The Night We Met", "Lord Huron", "A wistful, reflective song that leans into longing."),
+        ("Someone Like You", "Adele", "A spare heartbreak ballad centered on loss and reflection."),
+        ("Liability", "Lorde", "An intimate piano ballad with a vulnerable, inward feel."),
+        ("Fix You", "Coldplay", "A tender song about comfort through a difficult time."),
+        ("All I Want", "Kodaline", "A yearning ballad about love and loss."),
+        ("Back to Black", "Amy Winehouse", "A soulful portrait of heartbreak and returning to old pain."),
+        ("Nothing Compares 2 U", "Sinéad O'Connor", "A direct expression of grief and missing someone."),
+        ("Hurt", "Johnny Cash", "A stark, reflective performance about regret and time."),
+        ("Skinny Love", "Bon Iver", "An intimate song about a relationship coming apart."),
+        ("when the party's over", "Billie Eilish", "A hushed, vulnerable song about a painful goodbye."),
+    ],
+    "Calm": [
+        ("Weightless", "Marconi Union", "A slow ambient instrumental suited to a quiet reset."),
+        ("Holocene", "Bon Iver", "Gentle layers and a measured delivery make space to unwind."),
+        ("Nuvole Bianche", "Ludovico Einaudi", "A restrained piano piece with a spacious, reflective mood."),
+        ("Clair de Lune", "Claude Debussy", "A delicate piano classic with a soft, unhurried feel."),
+        ("Bloom", "The Paper Kites", "A gentle acoustic song with a close, intimate atmosphere."),
+        ("Pink Moon", "Nick Drake", "A quiet, understated song for a slower moment."),
+        ("River Flows in You", "Yiruma", "A flowing piano melody with a peaceful character."),
+        ("To Build a Home", "The Cinematic Orchestra", "A patient, spacious arrangement that invites reflection."),
+        ("Near Light", "Ólafur Arnalds", "A soft instrumental blend of piano and strings."),
+        ("A Walk", "Tycho", "A mellow instrumental with a smooth, unhurried flow."),
+    ],
+    "Romantic": [
+        ("At Last", "Etta James", "A classic love song carried by a warm, expressive vocal."),
+        ("Best Part", "Daniel Caesar feat. H.E.R.", "A tender duet built around closeness and affection."),
+        ("Lover", "Taylor Swift", "A heartfelt, intimate song about lasting love."),
+        ("Can't Help Falling in Love", "Elvis Presley", "A gentle declaration of devotion and falling in love."),
+        ("Make You Feel My Love", "Adele", "A promise of care and steadfast affection."),
+        ("All of Me", "John Legend", "A direct love song celebrating a partner as they are."),
+        ("Your Song", "Elton John", "A personal, unshowy expression of affection."),
+        ("La Vie en Rose", "Louis Armstrong", "A romantic standard about seeing the world through love."),
+        ("Perfect", "Ed Sheeran", "A sentimental song about finding a lifelong partner."),
+        ("I Will Always Love You", "Whitney Houston", "A powerful ballad about enduring love and letting go."),
+    ],
+    "Energetic": [
+        ("Don't Stop Me Now", "Queen", "A high-spirited performance that keeps building."),
+        ("Titanium", "David Guetta feat. Sia", "A big electronic production and powerful vocal bring momentum."),
+        ("Can't Hold Us", "Macklemore & Ryan Lewis feat. Ray Dalton", "An anthemic chorus and driving percussion create forward motion."),
+        ("Levels", "Avicii", "A bright electronic dance track with an instantly recognizable hook."),
+        ("Run the World (Girls)", "Beyoncé", "A bold, percussive anthem with an assertive vocal."),
+        ("Mr. Brightside", "The Killers", "A propulsive rock song with a full-throttle sing-along chorus."),
+        ("Uptown Funk", "Mark Ronson feat. Bruno Mars", "A lively funk-pop groove built for movement."),
+        ("Lose Yourself", "Eminem", "An urgent performance about seizing an opportunity."),
+        ("Sandstorm", "Darude", "A fast, instrumental dance track with relentless momentum."),
+        ("The Middle", "Jimmy Eat World", "An energetic rock chorus with an encouraging message."),
+    ],
+    "Focus": [
+        ("Intro", "The xx", "A minimal instrumental arrangement leaves room for concentration."),
+        ("Experience", "Ludovico Einaudi", "A piano-led instrumental can sit quietly alongside work."),
+        ("Time", "Hans Zimmer", "A gradual instrumental build offers atmosphere without lyrics."),
+        ("Your Hand in Mine", "Explosions in the Sky", "A lyric-free instrumental that builds patiently."),
+        ("First Breath After Coma", "Explosions in the Sky", "An instrumental with a gradual, measured progression."),
+        ("Says", "Nils Frahm", "A repeating instrumental pattern that slowly opens up."),
+        ("Open Eye Signal", "Jon Hopkins", "A steady electronic instrumental for sustained attention."),
+        ("A Walk", "Tycho", "An even instrumental flow with no vocal lyrics."),
+        ("An Ending (Ascent)", "Brian Eno", "A spacious ambient instrumental for a quieter workspace."),
+        ("We Move Lightly", "Dustin O'Halloran", "A restrained piano piece with a gentle, consistent feel."),
+    ],
+    "Nostalgic": [
+        ("Dreams", "Fleetwood Mac", "A familiar sound and reflective lyrics give it a timeless feel."),
+        ("Fast Car", "Tracy Chapman", "A story-led song that looks back while imagining another future."),
+        ("Landslide", "Fleetwood Mac", "A reflective song about change, memory, and growing older."),
+        ("The Scientist", "Coldplay", "A piano ballad about looking back and wishing to begin again."),
+        ("Wonderwall", "Oasis", "A familiar sing-along with a wistful, hopeful edge."),
+        ("Everybody Wants to Rule the World", "Tears for Fears", "A recognizable eighties sound with a reflective undercurrent."),
+        ("Take on Me", "a-ha", "A vivid pop classic that carries a strong sense of its era."),
+        ("Vienna", "Billy Joel", "A reflective song about time, growing up, and slowing down."),
+        ("Time After Time", "Cyndi Lauper", "A familiar promise of being there for someone."),
+        ("Iris", "Goo Goo Dolls", "An earnest alternative rock song closely tied to its era."),
+    ],
+    "Late Night": [
+        ("Pink + White", "Frank Ocean", "Soft, atmospheric production gives this a late-hours feel."),
+        ("After Dark", "Mr.Kitty", "A shadowy synth-pop atmosphere fits a nighttime listen."),
+        ("Nights", "Frank Ocean", "A spacious, introspective track for winding down after dark."),
+        ("Do I Wanna Know?", "Arctic Monkeys", "A slow-burning song with a nocturnal, brooding mood."),
+        ("The Hills", "The Weeknd", "Dark production and an after-hours perspective define the track."),
+        ("Street Lights", "Kanye West", "A sparse, reflective song with a lonely night-drive feel."),
+        ("Wicked Game", "Chris Isaak", "A slow, atmospheric song about desire and uncertainty."),
+        ("Moon Song", "Phoebe Bridgers", "A quiet, intimate song that suits a solitary late night."),
+        ("Midnight City", "M83", "A glowing, nighttime synth sound with a cinematic sweep."),
+        ("The Less I Know the Better", "Tame Impala", "A hazy, reflective groove for the end of the day."),
+    ],
+    "Motivational": [
+        ("Unstoppable", "Sia", "A resilient message and soaring chorus make it an encouraging pick."),
+        ("Rise Up", "Andra Day", "A song of perseverance that builds toward an uplifting vocal peak."),
+        ("The Climb", "Miley Cyrus", "Its lyrics focus on persistence through a difficult journey."),
+        ("Eye of the Tiger", "Survivor", "A determined anthem about facing a challenge."),
+        ("Stronger", "Kanye West", "A forceful message about coming back with more resolve."),
+        ("Fight Song", "Rachel Platten", "An affirming pop anthem about reclaiming confidence."),
+        ("Hall of Fame", "The Script feat. will.i.am", "A direct message about effort and pursuing a goal."),
+        ("Roar", "Katy Perry", "A bright empowerment anthem about finding your voice."),
+        ("Brave", "Sara Bareilles", "An encouraging song about speaking up and being yourself."),
+        ("Beautiful Day", "U2", "An optimistic rock song about finding possibility in the present."),
+    ],
+    "Dreamy": [
+        ("Space Song", "Beach House", "Hazy textures and a floating arrangement create a dreamlike mood."),
+        ("Myth", "Beach House", "Soft-focus vocals and layered sound feel immersive and weightless."),
+        ("Sweet Disposition", "The Temper Trap", "Expansive guitars and an airy vocal give it a glowing feel."),
+        ("Dreams", "The Cranberries", "Airy vocals and shimmering guitars create a wistful atmosphere."),
+        ("Fade Into You", "Mazzy Star", "A soft, hazy performance with a floating, intimate quality."),
+        ("Cherry-coloured Funk", "Cocteau Twins", "Layered vocals and shimmering production create an otherworldly feel."),
+        ("Youth", "Daughter", "A spacious, delicate arrangement with a hazy emotional tone."),
+        ("Apocalypse", "Cigarettes After Sex", "A slow, atmospheric sound with a soft-focus mood."),
+        ("Sunsetz", "Cigarettes After Sex", "A gentle, atmospheric song with a drifting quality."),
+        ("Sugar for the Pill", "Slowdive", "A wash of guitars and soft vocals creates a floating sound."),
+    ],
+}
+
 SONGS = [
-    {"title": "Lovely Day", "artist": "Bill Withers", "mood": "Happy", "score": 98, "why": "A warm, uplifting vocal and easygoing feel make this a sunny pick."},
-    {"title": "Walking on Sunshine", "artist": "Katrina and the Waves", "mood": "Happy", "score": 96, "why": "An exuberant sing-along with an unmistakably cheerful mood."},
-    {"title": "September", "artist": "Earth, Wind & Fire", "mood": "Happy", "score": 94, "why": "A celebratory classic with a bright, joyful character."},
-    {"title": "The Night We Met", "artist": "Lord Huron", "mood": "Sad", "score": 98, "why": "A wistful, reflective song that leans into longing."},
-    {"title": "Someone Like You", "artist": "Adele", "mood": "Sad", "score": 96, "why": "A spare heartbreak ballad centered on loss and reflection."},
-    {"title": "Liability", "artist": "Lorde", "mood": "Sad", "score": 93, "why": "An intimate piano ballad with a vulnerable, inward feel."},
-    {"title": "Weightless", "artist": "Marconi Union", "mood": "Calm", "score": 98, "why": "A slow ambient instrumental suited to a quiet reset."},
-    {"title": "Holocene", "artist": "Bon Iver", "mood": "Calm", "score": 95, "why": "Gentle layers and a measured delivery make space to unwind."},
-    {"title": "Nuvole Bianche", "artist": "Ludovico Einaudi", "mood": "Calm", "score": 93, "why": "A restrained piano piece with a spacious, reflective mood."},
-    {"title": "At Last", "artist": "Etta James", "mood": "Romantic", "score": 98, "why": "A classic love song carried by a warm, expressive vocal."},
-    {"title": "Best Part", "artist": "Daniel Caesar feat. H.E.R.", "mood": "Romantic", "score": 96, "why": "A tender duet built around closeness and affection."},
-    {"title": "Lover", "artist": "Taylor Swift", "mood": "Romantic", "score": 94, "why": "A heartfelt, intimate song about lasting love."},
-    {"title": "Don't Stop Me Now", "artist": "Queen", "mood": "Energetic", "score": 98, "why": "A fast-moving, high-spirited performance that keeps building."},
-    {"title": "Titanium", "artist": "David Guetta feat. Sia", "mood": "Energetic", "score": 95, "why": "A big electronic production and powerful vocal bring momentum."},
-    {"title": "Can't Hold Us", "artist": "Macklemore & Ryan Lewis feat. Ray Dalton", "mood": "Energetic", "score": 93, "why": "Driving percussion and an anthemic chorus create forward motion."},
-    {"title": "Intro", "artist": "The xx", "mood": "Focus", "score": 97, "why": "A minimal instrumental arrangement leaves room for concentration."},
-    {"title": "Experience", "artist": "Ludovico Einaudi", "mood": "Focus", "score": 95, "why": "A repeating piano-led instrumental can sit quietly alongside work."},
-    {"title": "Time", "artist": "Hans Zimmer", "mood": "Focus", "score": 93, "why": "A gradual instrumental build offers atmosphere without lyrics."},
-    {"title": "Dreams", "artist": "Fleetwood Mac", "mood": "Nostalgic", "score": 98, "why": "Its familiar sound and reflective lyrics have a timeless feel."},
-    {"title": "Fast Car", "artist": "Tracy Chapman", "mood": "Nostalgic", "score": 96, "why": "A story-driven song that looks back while imagining a different future."},
-    {"title": "Landslide", "artist": "Fleetwood Mac", "mood": "Nostalgic", "score": 94, "why": "A reflective song about change, memory, and growing older."},
-    {"title": "Pink + White", "artist": "Frank Ocean", "mood": "Late Night", "score": 97, "why": "Soft, atmospheric production gives this a late-hours feel."},
-    {"title": "After Dark", "artist": "Mr.Kitty", "mood": "Late Night", "score": 95, "why": "A shadowy synth-pop atmosphere fits a nighttime listen."},
-    {"title": "Nights", "artist": "Frank Ocean", "mood": "Late Night", "score": 93, "why": "A spacious, introspective track for winding down after dark."},
-    {"title": "Unstoppable", "artist": "Sia", "mood": "Motivational", "score": 98, "why": "A resilient message and soaring chorus make it an encouraging pick."},
-    {"title": "Rise Up", "artist": "Andra Day", "mood": "Motivational", "score": 96, "why": "A song of perseverance that builds toward an uplifting vocal peak."},
-    {"title": "The Climb", "artist": "Miley Cyrus", "mood": "Motivational", "score": 94, "why": "Its lyrics focus on persistence through a difficult journey."},
-    {"title": "Space Song", "artist": "Beach House", "mood": "Dreamy", "score": 98, "why": "Hazy textures and a floating arrangement create a dreamlike mood."},
-    {"title": "Myth", "artist": "Beach House", "mood": "Dreamy", "score": 96, "why": "Soft-focus vocals and layered sound feel immersive and weightless."},
-    {"title": "Sweet Disposition", "artist": "The Temper Trap", "mood": "Dreamy", "score": 94, "why": "Expansive guitars and an airy vocal give it a glowing, open feel."},
+    {"title": title, "artist": artist, "mood": mood, "score": 98 - index * 2, "why": why}
+    for mood, picks in MOOD_SONGS.items()
+    for index, (title, artist, why) in enumerate(picks)
 ]
+
+# Ensure every mood has ten verified listen targets with direct, bundled links.
+# Some well-matched tracks intentionally appear in more than one mood collection.
+_MEDIA_FILL_INS = {
+    "Calm": [("The Night We Met", "Lord Huron")],
+    "Focus": [
+        ("Weightless", "Marconi Union"), ("Nuvole Bianche", "Ludovico Einaudi"),
+        ("Clair de Lune", "Claude Debussy"), ("Pink Moon", "Nick Drake"),
+        ("River Flows in You", "Yiruma"), ("To Build a Home", "The Cinematic Orchestra"),
+        ("Near Light", "Ólafur Arnalds"),
+    ],
+    "Nostalgic": [
+        ("Here Comes the Sun", "The Beatles"), ("September", "Earth, Wind & Fire"),
+        ("Three Little Birds", "Bob Marley & The Wailers"),
+    ],
+    "Late Night": [
+        ("The Night We Met", "Lord Huron"), ("Someone Like You", "Adele"),
+        ("Liability", "Lorde"), ("Back to Black", "Amy Winehouse"),
+        ("Nothing Compares 2 U", "Sinéad O'Connor"), ("Skinny Love", "Bon Iver"),
+    ],
+    "Motivational": [
+        ("Don't Stop Me Now", "Queen"), ("Titanium", "David Guetta feat. Sia"),
+        ("Can't Hold Us", "Macklemore & Ryan Lewis feat. Ray Dalton"), ("Levels", "Avicii"),
+        ("Run the World (Girls)", "Beyoncé"), ("Lose Yourself", "Eminem"),
+        ("The Middle", "Jimmy Eat World"), ("Uptown Funk", "Mark Ronson feat. Bruno Mars"),
+    ],
+    "Dreamy": [
+        ("Weightless", "Marconi Union"), ("Nuvole Bianche", "Ludovico Einaudi"),
+        ("Clair de Lune", "Claude Debussy"), ("Bloom", "The Paper Kites"),
+        ("Pink Moon", "Nick Drake"), ("River Flows in You", "Yiruma"),
+        ("To Build a Home", "The Cinematic Orchestra"), ("Near Light", "Ólafur Arnalds"),
+        ("A Walk", "Tycho"), ("After Dark", "Mr.Kitty"),
+    ],
+}
+
+_BASE_SONGS = SONGS
+_BASE_BY_KEY = {(song["title"].casefold(), song["artist"].casefold()): song for song in _BASE_SONGS}
+try:
+    import json
+    from pathlib import Path
+
+    _media_path = Path(__file__).with_name("catalog_media.json")
+    _media = json.loads(_media_path.read_text(encoding="utf-8")) if _media_path.exists() else {}
+    _media_keys = set(_media)
+except (OSError, ValueError):
+    _media_keys = set()
+
+_bundled_songs = []
+for _mood in MOODS:
+    _originals = [song for song in _BASE_SONGS if song["mood"] == _mood]
+    _selected = [song for song in _originals if f"{song['title'].casefold()}|{song['artist'].casefold()}" in _media_keys]
+    _seen = {(song["title"].casefold(), song["artist"].casefold()) for song in _selected}
+    for _title, _artist in _MEDIA_FILL_INS.get(_mood, []):
+        _key = (_title.casefold(), _artist.casefold())
+        if _key not in _seen and f"{_key[0]}|{_key[1]}" in _media_keys and _key in _BASE_BY_KEY:
+            _selected.append({**_BASE_BY_KEY[_key], "mood": _mood})
+            _seen.add(_key)
+    if _media_keys:
+        _selected = _selected[:10]
+    else:
+        _selected = _originals[:10]
+    for _index, _song in enumerate(_selected):
+        _bundled_songs.append({**_song, "score": 98 - _index * 2})
+
+SONGS = _bundled_songs
