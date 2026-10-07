@@ -1,30 +1,32 @@
 # MoodMix
 
-**MoodMix** is a Streamlit song discovery app built around how you feel, rather than music genres. Choose from Happy, Sad, Calm, Romantic, Energetic, Focus, Nostalgic, Late Night, Motivational, or Dreamy to discover catalog tracks with official artwork, preview snippets when provided, and links to listen.
+MoodMix is an offline-first Streamlit song-discovery app. Pick from Happy, Sad, Calm, Romantic, Energetic, Focus, Nostalgic, Late Night, Motivational, or Dreamy to browse bundled editorial recommendations. Runtime recommendations make no music-catalog API requests and need no provider credentials.
 
-## Run locally
+## Run
+
+With Python installed:
 
 ```powershell
-py -m venv .venv
+python -m venv .venv
 .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+$env:STREAMLIT_CONFIG_DIR = (Join-Path (Get-Location) '.streamlit')
 streamlit run app.py
 ```
 
-Apple Music/iTunes Search and Deezer results work without API credentials. To try richer audio-feature matching, optionally provide Spotify client credentials in the sidebar or as environment variables:
+If `pip` is not available as a command, use `uv`:
 
 ```powershell
-$env:SPOTIFY_CLIENT_ID = "your-client-id"
-$env:SPOTIFY_CLIENT_SECRET = "your-client-secret"
-streamlit run app.py
+uv venv --python 3.14 .venv
+uv pip install --python .venv\Scripts\python.exe -r requirements.txt
+$env:STREAMLIT_CONFIG_DIR = (Join-Path (Get-Location) '.streamlit')
+.venv\Scripts\streamlit.exe run app.py
 ```
 
-Spotify's audio-features endpoint is deprecated and access can be denied. When that happens, MoodMix gracefully continues with real catalog data and any tempo values returned by its sources. It does not estimate missing audio features or invent tracks, preview URLs, or listening links. A match score is shown only when at least one real feature is available; the score compares returned features to the selected mood profile and renormalizes over features that exist for that track.
+## Offline catalog limits
 
-## Music sources
-
-- [Apple iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/): song and artist metadata, artwork, official previews when supplied, and track links.
-- [Deezer API](https://developers.deezer.com/api): search results with album artwork, preview URLs, listening links, and tempo when returned.
-- [Spotify Web API](https://developer.spotify.com/documentation/web-api/reference/get-audio-features): optional track search and real audio features (energy, valence, danceability, tempo, acousticness, instrumentalness), subject to Spotify access and deprecation limits.
-
-Mood profiles are hand-set target values used for feature-distance ranking. Only provider-returned audio features affect a numeric match score. No full songs are downloaded or redistributed; previews are played from the official provider URL.
+- Song titles, artists, mood notes, and editorial fit scores are bundled in `offline_catalog.py`.
+- The fit score is a human-curated mood fit, not an audio-feature calculation.
+- Energy, BPM, album artwork, and official previews are not bundled and are shown as unavailable. MoodMix does not estimate or invent them.
+- “Find to listen” opens a search for that title and artist on Apple Music. The link is a search link, not a verified direct song URL.
+- The app does not download or redistribute music.
