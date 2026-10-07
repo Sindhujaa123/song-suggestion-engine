@@ -91,7 +91,7 @@ def main() -> None:
     add_styles()
     with st.sidebar:
         st.markdown('<div class="brand">mood<b>mix</b> ♫</div>', unsafe_allow_html=True)
-        market = st.radio("Choose music catalog", ["US · English", "India · Hindi & Telugu"], label_visibility="visible")
+        market = st.radio("Choose music catalog", ["US · English", "India · Telugu"], label_visibility="visible")
         st.markdown("### Pick a mood")
         mood = st.selectbox("Mood", list(MOODS), label_visibility="collapsed")
         st.markdown("---")
@@ -105,7 +105,7 @@ def main() -> None:
     )
     st.markdown(f'<div class="section-label">{info["emoji"]} &nbsp; {mood} mood &nbsp; · &nbsp; {info["description"]}</div>', unsafe_allow_html=True)
     if market.startswith("India"):
-        songs = [song for song in indian_songs() if song["mood"] == mood]
+        songs = [song for song in indian_songs() if song["mood"] == mood and song.get("language") == "Telugu"]
     else:
         songs = [song for song in SONGS if song["mood"] == mood]
     songs.sort(key=lambda song: int(song["score"]), reverse=True)
