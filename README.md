@@ -1,6 +1,6 @@
 # MoodMix
 
-MoodMix is an offline-first Streamlit song-discovery app. Pick from Happy, Sad, Calm, Romantic, Energetic, Focus, Nostalgic, Late Night, Motivational, or Dreamy to browse bundled editorial recommendations. Runtime recommendations make no music-catalog API requests and need no provider credentials.
+MoodMix is an offline-first Streamlit song-discovery app. Pick from Happy, Sad, Breakup, Calm, Romantic, Energetic, Focus, Nostalgic, Late Night, Motivational, or Dreamy to browse bundled editorial recommendations. Runtime recommendations make no music-catalog API requests and need no provider credentials.
 
 ## Run
 
@@ -25,7 +25,7 @@ $env:STREAMLIT_CONFIG_DIR = (Join-Path (Get-Location) '.streamlit')
 
 ## Bundled catalog
 
-- Each of the ten moods has at least ten curated song picks in `offline_catalog.py`.
+- Each mood has at least ten curated song picks in `offline_catalog.py`.
 - Verified Apple Music track links, album artwork URLs, and available official previews are stored in `catalog_media.json`. They are bundled; the app makes no catalog API calls while users browse.
 - Some songs intentionally appear in more than one mood collection so every category has ten verified listening links.
 - The displayed fit score is editorial, not an audio-feature calculation. Energy and BPM are not included and are never guessed.

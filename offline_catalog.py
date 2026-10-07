@@ -3,6 +3,7 @@
 MOODS = {
     "Happy": {"emoji": "☀️", "description": "Bright, buoyant songs for a lift."},
     "Sad": {"emoji": "🌧️", "description": "Gentle songs for sitting with a feeling."},
+    "Breakup": {"emoji": "💔", "description": "Songs for the end of a relationship and everything around it."},
     "Calm": {"emoji": "🌿", "description": "Soft edges, slow breaths, quiet focus."},
     "Romantic": {"emoji": "💗", "description": "Warm melodies and close-to-the-heart songs."},
     "Energetic": {"emoji": "⚡", "description": "A pulse that keeps you moving."},
@@ -40,6 +41,18 @@ MOOD_SONGS = {
         ("Hurt", "Johnny Cash", "A stark, reflective performance about regret and time."),
         ("Skinny Love", "Bon Iver", "An intimate song about a relationship coming apart."),
         ("when the party's over", "Billie Eilish", "A hushed, vulnerable song about a painful goodbye."),
+    ],
+    "Breakup": [
+        ("Someone Like You", "Adele", "A goodbye ballad about accepting that a former love has moved on."),
+        ("The Night We Met", "Lord Huron", "A longing song about wishing a relationship could be returned to its beginning."),
+        ("Back to Black", "Amy Winehouse", "A soulful account of heartbreak and returning to old pain."),
+        ("All I Want", "Kodaline", "A yearning breakup ballad about missing someone who is gone."),
+        ("Nothing Compares 2 U", "Sinéad O'Connor", "A direct expression of loss after a relationship ends."),
+        ("when the party's over", "Billie Eilish", "A quiet farewell to a relationship that has become painful."),
+        ("Skinny Love", "Bon Iver", "A fragile song about a relationship running out of room to survive."),
+        ("The Scientist", "Coldplay", "A regretful look at a relationship and the wish to start over."),
+        ("Hurt", "Johnny Cash", "A stark reflection on regret, pain, and what remains."),
+        ("Liability", "Lorde", "An intimate song about feeling difficult to love and being left alone."),
     ],
     "Calm": [
         ("Weightless", "Marconi Union", "A slow ambient instrumental suited to a quiet reset."),
