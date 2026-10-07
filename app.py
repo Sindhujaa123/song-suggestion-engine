@@ -227,7 +227,7 @@ def _render_track(track: Track, index: int) -> None:
     energy = f'<span class="pill">Energy {track.features["energy"]:.2f}</span>' if "energy" in track.features else '<span class="pill">Energy unavailable</span>'
     bpm = f'<span class="pill">{track.features["tempo"]:.0f} BPM</span>' if "tempo" in track.features else '<span class="pill">BPM unavailable</span>'
     extra_features = "".join(f'<span class="pill">{FEATURE_LABELS[key]} {track.features[key]:.2f}</span>' for key in ("valence", "danceability", "acousticness", "instrumentalness") if key in track.features)
-    details = f'<div class="song-title">{escape(track.title)}</div><div class="song-artist">{escape(track.artist)}</div><div class="song-album">{escape(track.album)}</div><div class="pills">{score}{energy}{bpm}{extra_features}</div><div class="why">{escape(track.explanation)}</div><div class="source-note">Catalog: {escape(", ".join(sorted(track.sources))}</div>'
+    details = f'<div class="song-title">{escape(track.title)}</div><div class="song-artist">{escape(track.artist)}</div><div class="song-album">{escape(track.album)}</div><div class="pills">{score}{energy}{bpm}{extra_features}</div><div class="why">{escape(track.explanation)}</div><div class="source-note">Catalog: {escape(", ".join(sorted(track.sources)))}</div>'
     st.markdown(f'<div class="song-card">{image}<div>{details}</div></div>', unsafe_allow_html=True)
     cols = st.columns([1, 1, 3])
     if track.preview_url:
