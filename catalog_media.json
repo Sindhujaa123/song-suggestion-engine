@@ -371,11 +371,13 @@
     "source": "Apple iTunes Search catalog"
   },
   "the scientist|coldplay": {
-    "listen_url": "https://music.apple.com/us/album/the-scientist/1122775993?i=1122776155&uo=4",
+    "listen_url": "https://music.apple.com/in/album/the-scientist/1122775993?i=1122776155&uo=4",
     "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/a6/27/aea62715-e6ae-9562-ba81-1f969a2ee2fa/mzaf_9054259057357054559.plus.aac.p.m4a",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/600x600bb.jpg",
     "album": "A Rush of Blood to the Head",
-    "source": "Apple iTunes Search catalog"
+    "catalog_title": "The Scientist",
+    "catalog_artist": "Coldplay",
+    "source": "Apple India catalog bundle"
   },
   "everybody wants to rule the world|tears for fears": {
     "listen_url": "https://music.apple.com/us/album/everybody-wants-to-rule-the-world/1440813508?i=1440813515&uo=4",
@@ -446,5 +448,752 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
     "album": "PRISM (Deluxe Version)",
     "source": "Apple iTunes Search catalog"
+  },
+  "aabaad barbaad|pritam & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/aabaad-barbaad/1540255871?i=1540255874&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/ab/0f/b9ab0f4f-dd25-fd05-9120-87063fd36437/mzaf_15324965968819837966.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/95/27/619527bb-c24c-a1d5-1aae-d449f95826ef/8902894361170_cover.jpg/600x600bb.jpg",
+    "album": "Ludo (Original Motion Picture Soundtrack)",
+    "catalog_title": "Aabaad Barbaad",
+    "catalog_artist": "Pritam & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "tamil old songs|tpm": {
+    "listen_url": "https://music.apple.com/in/album/tamil-old-songs/1895634454?i=6764090367&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/6f/a0/2e6fa0d5-21e3-5e2b-e399-e161124faedb/mzaf_7431058303234387526.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/f5/68/34f568eb-9cfe-3970-6168-7a89b5430edf/8904438662651.jpg/600x600bb.jpg",
+    "album": "Tamil Old Songs",
+    "catalog_title": "Tamil Old Songs",
+    "catalog_artist": "TPM",
+    "source": "Apple India catalog bundle"
+  },
+  "happy|karthik": {
+    "listen_url": "https://music.apple.com/in/album/happy/928958727?i=928958766&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/e0/1a/7be01abc-0a92-b7be-4181-ac83d8117a31/mzaf_8368578373158507968.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c2/56/ff/c256ff75-b499-133a-8ce2-e43c3ff903f3/cover.jpg/600x600bb.jpg",
+    "album": "Happy (Original Motion Picture Soundtrack)",
+    "catalog_title": "Happy",
+    "catalog_artist": "Karthik",
+    "source": "Apple India catalog bundle"
+  },
+  "makhna|tanishk bagchi, yasser desai & asees kaur": {
+    "listen_url": "https://music.apple.com/in/album/makhna/1529555766?i=1529555769&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/d3/95/66d39578-e317-563f-7f74-cf80c3e125d8/mzaf_10987772435625716288.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/4e/93/884e93af-ef43-e215-0d90-a27e32ba6f86/8718857907909.png/600x600bb.jpg",
+    "album": "Drive (Original Motion Picture Soundtrack)",
+    "catalog_title": "Makhna",
+    "catalog_artist": "Tanishk Bagchi, Yasser Desai & Asees Kaur",
+    "source": "Apple India catalog bundle"
+  },
+  "aasa kooda (from \"think indie\")|sai abhyankkar & sai smriti": {
+    "listen_url": "https://music.apple.com/in/album/aasa-kooda-from-think-indie/1751425577?i=1751426200&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/cf/b4/7dcfb491-bc94-a3b7-58eb-955d86b87304/mzaf_11729642638473227575.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/600x600bb.jpg",
+    "album": "Aasa Kooda (From \"Think Indie\") - Single",
+    "catalog_title": "Aasa Kooda (From \"Think Indie\")",
+    "catalog_artist": "Sai Abhyankkar & Sai Smriti",
+    "source": "Apple India catalog bundle"
+  },
+  "sajni|arijit singh, ram sampath & prashant pandey": {
+    "listen_url": "https://music.apple.com/in/album/sajni/1730725577?i=1730725583&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/5f/a4/0e5fa4f9-c67b-31f1-1d1e-4c3e0f86e233/mzaf_15112412104812626230.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/d8/bf/48d8bf8f-df58-e05f-62e2-bc494d748ea4/8902894362252_cover.jpg/600x600bb.jpg",
+    "album": "Laapataa Ladies (Original Motion Picture Soundtrack)",
+    "catalog_title": "Sajni",
+    "catalog_artist": "Arijit Singh, Ram Sampath & Prashant Pandey",
+    "source": "Apple India catalog bundle"
+  },
+  "rowdy baby|dhanush & dhee": {
+    "listen_url": "https://music.apple.com/in/album/rowdy-baby/1702730225?i=1702730486&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/17/90/911790e5-27e3-6021-da30-bddf59576e3d/mzaf_3831305118076812899.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/0b/4f/090b4ffb-f4eb-f975-ae79-ce5446eeabc8/718598836276.jpg/600x600bb.jpg",
+    "album": "Maari 2 (Original Motion Picture Soundtrack) - Single",
+    "catalog_title": "Rowdy Baby",
+    "catalog_artist": "Dhanush & Dhee",
+    "source": "Apple India catalog bundle"
+  },
+  "shayad|pritam & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/shayad/1499107781?i=1499107789&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/46/e3/a846e37a-a9e9-930b-e6d7-ab95d97b5a0f/mzaf_1227303989501357152.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3a/63/653a634d-0193-c0f2-5d20-f3a3940ff21e/886448303862.jpg/600x600bb.jpg",
+    "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+    "catalog_title": "Shayad",
+    "catalog_artist": "Pritam & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "nashe si chadh gayi|vishal & shekhar, arijit singh & caralisa monteiro": {
+    "listen_url": "https://music.apple.com/in/album/nashe-si-chadh-gayi/1181809037?i=1181809040&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/d1/25/afd125f4-14ec-96db-f041-734b2be25ebf/mzaf_16119343562690640430.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/24/d9/6124d942-9d43-7863-f402-c37d9fb8e491/849486075603_cover.jpg/600x600bb.jpg",
+    "album": "Befikre (Original Motion Picture Soundtrack)",
+    "catalog_title": "Nashe Si Chadh Gayi",
+    "catalog_artist": "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro",
+    "source": "Apple India catalog bundle"
+  },
+  "pehle bhi main|vishal mishra & raj shekhar": {
+    "listen_url": "https://music.apple.com/in/album/pehle-bhi-main/1718278225?i=1718278234&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/d8/43/3ad8432d-c2e6-052b-5679-cc01c6a599ea/mzaf_7941667053086496020.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/600x600bb.jpg",
+    "album": "ANIMAL (Original Motion Picture Soundtrack)",
+    "catalog_title": "Pehle Bhi Main",
+    "catalog_artist": "Vishal Mishra & Raj Shekhar",
+    "source": "Apple India catalog bundle"
+  },
+  "husn|anuv jain": {
+    "listen_url": "https://music.apple.com/in/album/husn/1717140538?i=1717140552&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/5d/58/315d5836-7db4-90fa-96c7-36fa4f3ceb96/mzaf_761014035866726482.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/600x600bb.jpg",
+    "album": "Husn - Single",
+    "catalog_title": "Husn",
+    "catalog_artist": "Anuv Jain",
+    "source": "Apple India catalog bundle"
+  },
+  "badhulu thochanai|karthik & mallikarjun": {
+    "listen_url": "https://music.apple.com/in/album/badhulu-thochanai/925132484?i=925132581&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/f5/5a/55f55aea-3886-8201-b957-81867b39b0ad/mzaf_10380441870880336330.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/06/4a/4d064aa3-55c1-1754-0d43-43f8850311ff/cover.jpg/600x600bb.jpg",
+    "album": "Mr. Perfect (Original Motion Picture Soundtrack)",
+    "catalog_title": "Badhulu Thochanai",
+    "catalog_artist": "Karthik & Mallikarjun",
+    "source": "Apple India catalog bundle"
+  },
+  "tujhe bhula diya|mohit chauhan, shekhar ravjiani, shruti pathak & vishal & shekhar": {
+    "listen_url": "https://music.apple.com/in/album/tujhe-bhula-diya/1123355612?i=1123355620&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/e4/8c/e2e48c66-5145-8bc2-15d5-ed54eac021e5/mzaf_6476384826244653728.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/8b/d8/a1/8bd8a190-8b8c-35f8-8573-614428dd6e42/8902894689113_cover.jpg/600x600bb.jpg",
+    "album": "Anjaana Anjaani (Original Motion Picture Soundtrack)",
+    "catalog_title": "Tujhe Bhula Diya",
+    "catalog_artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar",
+    "source": "Apple India catalog bundle"
+  },
+  "apna bana le (from \"bhediya\")|arijit singh, sachin-jigar & amitabh bhattacharya": {
+    "listen_url": "https://music.apple.com/in/album/apna-bana-le-from-bhediya/1653219847?i=1653219849&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/27/61/eb2761c7-d606-0912-dff0-2dc6b69974bd/mzaf_2023722930851223219.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/0b/c0/2e0bc070-112f-a827-6ad8-6bc64f7caaff/840214460180.png/600x600bb.jpg",
+    "album": "Apna Bana Le (From \"Bhediya\") - Single",
+    "catalog_title": "Apna Bana Le (From \"Bhediya\")",
+    "catalog_artist": "Arijit Singh, Sachin-Jigar & Amitabh Bhattacharya",
+    "source": "Apple India catalog bundle"
+  },
+  "oke oka jeevitham|haricharan": {
+    "listen_url": "https://music.apple.com/in/album/oke-oka-jeevitham/925149600?i=925149741&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/c2/0d/f2c20d8c-f80f-632f-4db3-0a378d6e7fce/mzaf_6894019656095201066.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/95/30/ea953082-767e-73e9-9a9e-d572fc00b4e1/cover.jpg/600x600bb.jpg",
+    "album": "Mr. Nookayya (Original Motion Picture Soundtrack)",
+    "catalog_title": "Oke Oka Jeevitham",
+    "catalog_artist": "Haricharan",
+    "source": "Apple India catalog bundle"
+  },
+  "jo tum mere ho|anuv jain": {
+    "listen_url": "https://music.apple.com/in/album/jo-tum-mere-ho/1758669723?i=1758669726&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/f0/ec/b8f0ecd5-79e2-dc95-f4ab-b4fdda3ab02d/mzaf_9450036655132036167.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/600x600bb.jpg",
+    "album": "Jo Tum Mere Ho - Single",
+    "catalog_title": "Jo Tum Mere Ho",
+    "catalog_artist": "Anuv Jain",
+    "source": "Apple India catalog bundle"
+  },
+  "kabira|pritam, tochi raina & rekha bhardwaj": {
+    "listen_url": "https://music.apple.com/in/album/kabira/1070912669?i=1070912818&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/06/19/e2061998-6444-5c5b-5bfc-a149c55e2e2e/mzaf_10494977375651598168.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/600x600bb.jpg",
+    "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+    "catalog_title": "Kabira",
+    "catalog_artist": "Pritam, Tochi Raina & Rekha Bhardwaj",
+    "source": "Apple India catalog bundle"
+  },
+  "nammaka tappani|sagar": {
+    "listen_url": "https://music.apple.com/in/album/nammaka-tappani/944012121?i=944012135&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/ff/10/68ff1053-3493-eec1-d9ac-ae8806088917/mzaf_15369626129384847910.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/24/68/80/24688073-321f-1b37-496f-39c65a99efd0/cover.jpg/600x600bb.jpg",
+    "album": "Bommarillu (Original Motion Picture Soundtrack)",
+    "catalog_title": "Nammaka Tappani",
+    "catalog_artist": "Sagar",
+    "source": "Apple India catalog bundle"
+  },
+  "agar tum saath ho|alka yagnik & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/agar-tum-saath-ho/1071074537?i=1071074558&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/a8/7d/75a87dcc-5b69-795d-7dcc-27d1c728f31f/mzaf_18055325784732588932.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/600x600bb.jpg",
+    "album": "Tamasha (Original Motion Picture Soundtrack)",
+    "catalog_title": "Agar Tum Saath Ho",
+    "catalog_artist": "Alka Yagnik & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "bekhayali|sachet tandon": {
+    "listen_url": "https://music.apple.com/in/album/bekhayali/1468448737?i=1468448738&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/fb/67/93fb67c1-7de6-f062-21e0-ed4babc196a3/mzaf_8590895579211855037.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/600x600bb.jpg",
+    "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+    "catalog_title": "Bekhayali",
+    "catalog_artist": "Sachet Tandon",
+    "source": "Apple India catalog bundle"
+  },
+  "telisiney na nuvvey|revanth": {
+    "listen_url": "https://music.apple.com/in/album/telisiney-na-nuvvey/1273980182?i=1273980411&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/3f/12963f0a-8137-d820-4106-b9e170f786c1/mzaf_1721577138151631520.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/69/41/e769411f-3254-3078-db60-ef38034e156b/cover.jpg/600x600bb.jpg",
+    "album": "Arjun Reddy (Original Motion Picture Soundtrack)",
+    "catalog_title": "Telisiney Na Nuvvey",
+    "catalog_artist": "Revanth",
+    "source": "Apple India catalog bundle"
+  },
+  "dhooram dhooram|tippu": {
+    "listen_url": "https://music.apple.com/in/album/dhooram-dhooram/925475540?i=925475638&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/b2/81/4db28131-ea99-a5f3-a6b7-9fe7c1ccbf6d/mzaf_17686144493419350632.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ca/be/d9/cabed927-9850-4900-80e9-f3c585e31390/cover.jpg/600x600bb.jpg",
+    "album": "100% Love (Original Motion Picture Soundtrack)",
+    "catalog_title": "Dhooram Dhooram",
+    "catalog_artist": "Tippu",
+    "source": "Apple India catalog bundle"
+  },
+  "ilahi|pritam & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/ilahi/1070912669?i=1070912815&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/27/64/75276455-6751-e9d7-1187-b863a2ffefbc/mzaf_4313837125483855343.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/600x600bb.jpg",
+    "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+    "catalog_title": "Ilahi",
+    "catalog_artist": "Pritam & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "baller|shubh & ikky": {
+    "listen_url": "https://music.apple.com/in/album/baller/1641674737?i=1641674741&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/a0/97/b6a09736-5312-7636-f177-661cfc3adf67/mzaf_11821137866953407865.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/bd/93/e9bd9316-75a6-bc15-aebe-c737037bedf0/196925634489.jpg/600x600bb.jpg",
+    "album": "Baller - Single",
+    "catalog_title": "Baller",
+    "catalog_artist": "Shubh & Ikky",
+    "source": "Apple India catalog bundle"
+  },
+  "chuttamalle (from \"devara part 1\")|anirudh ravichander, shilpa rao & ramajogayya sastry": {
+    "listen_url": "https://music.apple.com/in/album/chuttamalle-from-devara-part-1/1761152592?i=1761152593&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/28/29/f92829b4-5473-17a9-879a-2efe96b8f95b/mzaf_4766756883763132198.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/600x600bb.jpg",
+    "album": "Chuttamalle (From \"Devara Part 1\") - Single",
+    "catalog_title": "Chuttamalle (From \"Devara Part 1\")",
+    "catalog_artist": "Anirudh Ravichander, Shilpa Rao & Ramajogayya Sastry",
+    "source": "Apple India catalog bundle"
+  },
+  "baarishein|anuv jain": {
+    "listen_url": "https://music.apple.com/in/album/baarishein/1708026322?i=1708026325&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/84/d5/de84d517-ca82-fcc6-528e-2397c866d31c/mzaf_15371366101597876011.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/81/d1/2e/81d12e71-c993-272a-d559-5a1411f8d8ed/23UM1IM11036.rgb.jpg/600x600bb.jpg",
+    "album": "Baarishein - Single",
+    "catalog_title": "Baarishein",
+    "catalog_artist": "Anuv Jain",
+    "source": "Apple India catalog bundle"
+  },
+  "darkhaast (feat. arijit singh, sunidhi chauhan)|mithoon": {
+    "listen_url": "https://music.apple.com/in/album/darkhaast-feat-arijit-singh-sunidhi-chauhan/1167416477?i=1167416565&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/f1/bd/b1f1bd27-1711-1f5d-5093-e4a03f78f09c/mzaf_14087819254288091059.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/20/55/b520556d-a1b7-ed6a-db24-5de2f1762998/8902894358422_cover.jpg/600x600bb.jpg",
+    "album": "Shivaay (Original Motion Picture Soundtrack)",
+    "catalog_title": "Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",
+    "catalog_artist": "Mithoon",
+    "source": "Apple India catalog bundle"
+  },
+  "tum ho|mohit chauhan & suzanne d'mello": {
+    "listen_url": "https://music.apple.com/in/album/tum-ho/1123241840?i=1123241929&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/35/07/363507ef-1f7f-a0c9-7262-8e48dfaa8a8a/mzaf_7353474988137651869.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/600x600bb.jpg",
+    "album": "Rockstar (Original Motion Picture Soundtrack)",
+    "catalog_title": "Tum Ho",
+    "catalog_artist": "Mohit Chauhan & Suzanne D'Mello",
+    "source": "Apple India catalog bundle"
+  },
+  "sahiba|aditya rikhari": {
+    "listen_url": "https://music.apple.com/in/album/sahiba/1721543289?i=1721543292&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/15/3c/59153c98-ebe7-6207-cade-004b45f2c20e/mzaf_10492749481288833419.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/1b/74/7f1b7432-f87c-2737-8c34-562806709d43/8903431975140_cover.jpg/600x600bb.jpg",
+    "album": "Sahiba - Single",
+    "catalog_title": "Sahiba",
+    "catalog_artist": "Aditya Rikhari",
+    "source": "Apple India catalog bundle"
+  },
+  "ae dil hai mushkil (title track)|pritam & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/ae-dil-hai-mushkil-title-track/1174924228?i=1174924381&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/63/0b/1c630b10-aa0e-a973-fc65-459b32cc672c/mzaf_4754094813584492034.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/3c/7a/433c7a84-116b-4001-115e-c8e34d57ebd0/886446235608.jpg/600x600bb.jpg",
+    "album": "Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack]",
+    "catalog_title": "Ae Dil Hai Mushkil (Title Track)",
+    "catalog_artist": "Pritam & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "for a reason|karan aujla & ikky": {
+    "listen_url": "https://music.apple.com/in/album/for-a-reason/1829591921?i=1829591983&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/c6/5b/88c65b26-c766-69d3-2603-4857e66903d4/mzaf_7154011662261729475.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/bd/e1/06bde161-335b-87fa-650a-f0d04bd9f55d/5021732889621.jpg/600x600bb.jpg",
+    "album": "P-POP CULTURE",
+    "catalog_title": "For A Reason",
+    "catalog_artist": "Karan Aujla & Ikky",
+    "source": "Apple India catalog bundle"
+  },
+  "shree hanuman chalisa|hariharan": {
+    "listen_url": "https://music.apple.com/in/album/shree-hanuman-chalisa/1275543934?i=1275543935&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/63/81/8963819c-b8ab-d153-c587-ef8fd6de30bb/mzaf_2393700136437532618.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/3a/8d/c53a8d9b-23d8-5cc1-ec14-6ed0ce7920a0/8902894137256_cover.jpg/600x600bb.jpg",
+    "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+    "catalog_title": "Shree Hanuman Chalisa",
+    "catalog_artist": "Hariharan",
+    "source": "Apple India catalog bundle"
+  },
+  "one love|shubh": {
+    "listen_url": "https://music.apple.com/in/album/one-love/1700735389?i=1700735404&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/cd/39/c5cd39fb-c2fc-0943-dbc0-102078023d8b/mzaf_9648427574188370554.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/600x600bb.jpg",
+    "album": "One Love - Single",
+    "catalog_title": "One Love",
+    "catalog_artist": "Shubh",
+    "source": "Apple India catalog bundle"
+  },
+  "tum se hi|pritam & mohit chauhan": {
+    "listen_url": "https://music.apple.com/in/album/tum-se-hi/1134725343?i=1134725347&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/39/b8/e739b870-54a1-8f33-57d5-3817108b8bd9/mzaf_16925921654959290990.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/600x600bb.jpg",
+    "album": "Jab We Met (Original Motion Picture Soundtrack)",
+    "catalog_title": "Tum Se Hi",
+    "catalog_artist": "Pritam & Mohit Chauhan",
+    "source": "Apple India catalog bundle"
+  },
+  "hawayein|pritam & arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/hawayein/1267389757?i=1267390213&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/d1/a8/15d1a862-edcd-6a92-624a-2bbf0f7eff26/mzaf_7165241817401822857.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/aa/e3/41aae321-0a81-2762-e0eb-c60844109fe7/886446683584.jpg/600x600bb.jpg",
+    "album": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+    "catalog_title": "Hawayein",
+    "catalog_artist": "Pritam & Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "softly|karan aujla & ikky": {
+    "listen_url": "https://music.apple.com/in/album/softly/1697533643?i=1697533818&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/6f/01/5f6f0130-6567-22d4-bc1a-5ccb359c3fac/mzaf_5497113703334703756.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/600x600bb.jpg",
+    "album": "Making Memories",
+    "catalog_title": "Softly",
+    "catalog_artist": "Karan Aujla & Ikky",
+    "source": "Apple India catalog bundle"
+  },
+  "dooriyan|pritam & mohit chauhan": {
+    "listen_url": "https://music.apple.com/in/album/dooriyan/1842069630?i=1842069636&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/fd/6c/3afd6c59-09a1-8587-795c-537fdb807e5f/mzaf_14422382797970666821.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c9/98/6cc9988b-b6ce-51e5-9396-fd11d65ad8a7/196871083010.jpg/600x600bb.jpg",
+    "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+    "catalog_title": "Dooriyan",
+    "catalog_artist": "Pritam & Mohit Chauhan",
+    "source": "Apple India catalog bundle"
+  },
+  "dil nu|ap dhillon & shinda kahlon": {
+    "listen_url": "https://music.apple.com/in/album/dil-nu/1648624139?i=1648624705&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/42/43/69424344-794a-c2a4-f87f-07be4ceab233/mzaf_16101738996089878738.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/37/31/67373108-1018-da3f-7220-4515137e5e5e/859766525070_cover.jpg/600x600bb.jpg",
+    "album": "Two Hearts Never Break the Same - EP",
+    "catalog_title": "Dil Nu",
+    "catalog_artist": "AP Dhillon & Shinda Kahlon",
+    "source": "Apple India catalog bundle"
+  },
+  "kaise hua|vishal mishra": {
+    "listen_url": "https://music.apple.com/in/album/kaise-hua/1468448737?i=1468448741&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/d3/52/14d3523c-00d0-e1b8-231a-4bfaf4767eac/mzaf_11751897198375558437.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/600x600bb.jpg",
+    "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+    "catalog_title": "Kaise Hua",
+    "catalog_artist": "Vishal Mishra",
+    "source": "Apple India catalog bundle"
+  },
+  "khuda jaane|vishal & shekhar, kk & shilpa rao": {
+    "listen_url": "https://music.apple.com/in/album/khuda-jaane/673521054?i=673521359&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/3e/9b/073e9b86-f18f-f88a-8cf4-aa1173bbea4c/mzaf_1018658659811187633.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/600x600bb.jpg",
+    "album": "Bachna Ae Haseeno (Original Soundtrack)",
+    "catalog_title": "Khuda Jaane",
+    "catalog_artist": "Vishal & Shekhar, KK & Shilpa Rao",
+    "source": "Apple India catalog bundle"
+  },
+  "love songs (bonus)|kaash paige": {
+    "listen_url": "https://music.apple.com/in/album/love-songs-bonus/1486998791?i=1486999206&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/32/c0/1b32c0db-13fa-1013-e1fc-a2bb342a41e1/mzaf_10073146004190972816.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/dd/17/a6dd178f-899c-148d-7212-9f284cb7c308/19UM1IM00944.rgb.jpg/600x600bb.jpg",
+    "album": "Parked Car Convos",
+    "catalog_title": "Love Songs (Bonus)",
+    "catalog_artist": "Kaash Paige",
+    "source": "Apple India catalog bundle"
+  },
+  "abhi toh party shuru hui hai|badshah & aastha": {
+    "listen_url": "https://music.apple.com/in/album/abhi-toh-party-shuru-hui-hai/1111783409?i=1111783498&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/b9/90/cdb990a5-155d-41ef-78d1-72f404da8438/mzaf_9064427207501693721.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/0a/42/a90a42be-f307-77aa-56ff-fcaefcfb1f08/8902894356282_cover.jpg/600x600bb.jpg",
+    "album": "Khoobsurat (Original Motion Picture Soundtrack)",
+    "catalog_title": "Abhi Toh Party Shuru Hui Hai",
+    "catalog_artist": "Badshah & Aastha",
+    "source": "Apple India catalog bundle"
+  },
+  "arabic kuthu (from \"beast\")|anirudh ravichander & jonita gandhi": {
+    "listen_url": "https://music.apple.com/in/album/arabic-kuthu-from-beast/1609970851?i=1609971105&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/ac/9a/58ac9a48-9e3e-15c9-5085-3a13a6187992/mzaf_12322264242631159198.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/19/b9/e919b921-d5a8-9e9a-8508-3551da375aee/196626458629.jpg/600x600bb.jpg",
+    "album": "Arabic Kuthu (From \"Beast\") - Single",
+    "catalog_title": "Arabic Kuthu (From \"Beast\")",
+    "catalog_artist": "Anirudh Ravichander & Jonita Gandhi",
+    "source": "Apple India catalog bundle"
+  },
+  "kurchi madathapetti (from \"guntur kaaram\")|s.s. thaman, sri krishna, sahithi chaganti & saraswati putra ramajogayya sastry": {
+    "listen_url": "https://music.apple.com/in/album/kurchi-madathapetti-from-guntur-kaaram/1723602834?i=1723602835&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/8c/64/5b8c640b-bd6f-d479-8ab8-21b78d1d4ddb/mzaf_2982331657416179239.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/e9/12/ffe9126b-d040-f90c-2df7-6baf1d00d1e6/cover.jpg/600x600bb.jpg",
+    "album": "Kurchi Madathapetti (From \"Guntur Kaaram\") - Single",
+    "catalog_title": "Kurchi Madathapetti (From \"Guntur Kaaram\")",
+    "catalog_artist": "S.S. Thaman, Sri Krishna, Sahithi Chaganti & Saraswati Putra Ramajogayya Sastry",
+    "source": "Apple India catalog bundle"
+  },
+  "london thumakda|labh janjua, sonu kakkar, neha kakkar & amit trivedi": {
+    "listen_url": "https://music.apple.com/in/album/london-thumakda/1116194763?i=1116194835&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/f2/15/04f2159c-f378-3323-d3a0-c055474ec688/mzaf_11306147181651969029.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/600x600bb.jpg",
+    "album": "Queen (Original Motion Picture Soundtrack)",
+    "catalog_title": "London Thumakda",
+    "catalog_artist": "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi",
+    "source": "Apple India catalog bundle"
+  },
+  "hayyoda x 1|mixed up": {
+    "listen_url": "https://music.apple.com/in/album/hayyoda-x-1/1765075485?i=1765075881&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/fc/13/1cfc13c1-04a0-de5d-1bf3-6fa79850228b/mzaf_10521101680002999443.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/70/5d/3b705da4-e125-c2fc-7b7f-2ff12ecf7f8d/artwork.jpg/600x600bb.jpg",
+    "album": "Tamil Dance songs - EP",
+    "catalog_title": "Hayyoda x 1",
+    "catalog_artist": "MIXED UP",
+    "source": "Apple India catalog bundle"
+  },
+  "ayudha pooja - telugu|anirudh ravichander, kaala bhairava & ramajogayya sastry": {
+    "listen_url": "https://music.apple.com/in/album/ayudha-pooja-telugu/1770755972?i=1770755976&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/7e/59/fd7e59df-13d3-5716-fe89-d61b699bc262/mzaf_3999376079533103487.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/84/04/ce8404fd-0fb3-b42a-7497-642e68feb574/8903431001313_cover.jpg/600x600bb.jpg",
+    "album": "Devara Part 1 (Original Motion Picture Soundtrack) - TELUGU - EP",
+    "catalog_title": "Ayudha Pooja - TELUGU",
+    "catalog_artist": "Anirudh Ravichander, Kaala Bhairava & Ramajogayya Sastry",
+    "source": "Apple India catalog bundle"
+  },
+  "badtameez dil|pritam, benny dayal & shefali alvares": {
+    "listen_url": "https://music.apple.com/in/album/badtameez-dil/1070912669?i=1070912803&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/e2/af/88e2af36-3b58-3f34-32c3-d94d3086c8d5/mzaf_15476348080733865142.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/600x600bb.jpg",
+    "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+    "catalog_title": "Badtameez Dil",
+    "catalog_artist": "Pritam, Benny Dayal & Shefali Alvares",
+    "source": "Apple India catalog bundle"
+  },
+  "kaara aattakkaara|a.r. rahman, aaryan dinesh kanagaratnam, darshana kt & shashaa tirupati": {
+    "listen_url": "https://music.apple.com/in/album/kaara-aattakkaara/980176945?i=980176946&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/f9/a7/edf9a7c4-942b-f902-720e-11c564f9cec7/mzaf_15178452080282735023.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/01/c2/d501c21b-266f-2db3-2abf-ca5d928e5649/886445180336.jpg/600x600bb.jpg",
+    "album": "O Kadhal Kanmani (Original Motion Picture Soundtrack)",
+    "catalog_title": "Kaara Aattakkaara",
+    "catalog_artist": "A.R. Rahman, Aaryan Dinesh Kanagaratnam, Darshana KT & Shashaa Tirupati",
+    "source": "Apple India catalog bundle"
+  },
+  "calm down|rema & selena gomez": {
+    "listen_url": "https://music.apple.com/in/album/calm-down/1640501237?i=1640501238&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/c7/54/c3c754cd-6680-4818-9182-e08a719d59ba/mzaf_1190051474475595816.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/600x600bb.jpg",
+    "album": "Calm Down - Single",
+    "catalog_title": "Calm Down",
+    "catalog_artist": "Rema & Selena Gomez",
+    "source": "Apple India catalog bundle"
+  },
+  "instrumental music|solenne whisper": {
+    "listen_url": "https://music.apple.com/in/album/instrumental-music/844514128?i=844514210&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/4e/d5/394ed59c-cc47-ddda-d5f6-e6e4821f57cd/mzaf_18104437235863482403.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/c0/c9/8fc0c964-efcd-f8fe-d57b-b9fc9ef672be/ultimate_relaxing_piano_music_1400.jpg/600x600bb.jpg",
+    "album": "Ultimate Relaxing Piano Music for Wellness, Spa, Massage, Shiatsu, Study, Concentration, Deep Relax, Yoga & Stretching",
+    "catalog_title": "Instrumental Music",
+    "catalog_artist": "Solenne Whisper",
+    "source": "Apple India catalog bundle"
+  },
+  "end of beginning|djo": {
+    "listen_url": "https://music.apple.com/in/album/end-of-beginning/1632447652?i=1632448108&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/81/10/38811007-ad71-7ca0-bb8c-fd26a0290add/mzaf_5172426609768569448.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/58/bb/9d58bb3a-c6b5-4c3d-fbba-50872d2712f4/5056494917336.jpg/600x600bb.jpg",
+    "album": "DECIDE",
+    "catalog_title": "End of Beginning",
+    "catalog_artist": "Djo",
+    "source": "Apple India catalog bundle"
+  },
+  "instrumental music|jazz guitar music zone": {
+    "listen_url": "https://music.apple.com/in/album/instrumental-music/1020935434?i=1020935841&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/24/0f/6f240fa9-662d-8d64-693a-1d5d0369547c/mzaf_9680690404881617233.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/74/93/e07493ac-cc74-d4e1-2a61-7a05287f937e/cover.jpg/600x600bb.jpg",
+    "album": "Dinner Party Music – Spanish Background Music and Chill Out Lounge, Instrumental Guitar Music for Relaxation, Acoustic Guitar Restaurant Music, Smooth Jazz",
+    "catalog_title": "Instrumental Music",
+    "catalog_artist": "Jazz Guitar Music Zone",
+    "source": "Apple India catalog bundle"
+  },
+  "paradise|coldplay": {
+    "listen_url": "https://music.apple.com/in/album/paradise/726372830?i=726373148&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/3e/62/aa3e6293-da9a-bba2-15da-0acf90282a5f/mzaf_9828018370517979528.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/600x600bb.jpg",
+    "album": "Mylo Xyloto",
+    "catalog_title": "Paradise",
+    "catalog_artist": "Coldplay",
+    "source": "Apple India catalog bundle"
+  },
+  "instrumental music|hornelia driftwood": {
+    "listen_url": "https://music.apple.com/in/album/instrumental-music/1032488339?i=1032488509&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/d1/df/3ed1df33-d7a5-9603-abc1-61b607e874b1/mzaf_9655291872427181046.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/55/40/705540a0-abd0-4c53-12de-04af61a20298/relaxation_101.jpg/600x600bb.jpg",
+    "album": "Relaxation 101 - Tibetan Chakra Meditation Music 4 Massage, Reiki & Deep Sleep Songs, Relaxing Nature Sounds",
+    "catalog_title": "Instrumental Music",
+    "catalog_artist": "Hornelia Driftwood",
+    "source": "Apple India catalog bundle"
+  },
+  "the ultimate frequency for gentle brain healing|balance autonomic nerves with music therapy": {
+    "listen_url": "https://music.apple.com/in/album/the-ultimate-frequency-for-gentle-brain-healing/6815901181?i=6815901382&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/42/f5/e542f5fe-68ca-31e5-d2e0-5e9ca1f21d50/mzaf_13772430310021450546.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/0c/aa/1a0caa7a-6379-3485-9403-1ca42a0f52b5/4550760898349_cover.jpg/600x600bb.jpg",
+    "album": "Healing Sounds for Anxiety Relief - Music Therapy for Rest and Relaxation",
+    "catalog_title": "The Ultimate Frequency for Gentle Brain Healing",
+    "catalog_artist": "Balance Autonomic Nerves with Music Therapy",
+    "source": "Apple India catalog bundle"
+  },
+  "side to side (feat. nicki minaj)|ariana grande": {
+    "listen_url": "https://music.apple.com/in/album/side-to-side-feat-nicki-minaj/1440835631?i=1440835649&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/c1/40/50c140dc-bd4b-073c-680f-1773a04b265e/mzaf_3187116627257536194.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/12/5d/63/125d6389-2205-c77c-702c-8128e9020bd6/16UMGIM12432.rgb.jpg/600x600bb.jpg",
+    "album": "Dangerous Woman",
+    "catalog_title": "Side To Side (feat. Nicki Minaj)",
+    "catalog_artist": "Ariana Grande",
+    "source": "Apple India catalog bundle"
+  },
+  "instrumental music|chill lounge music zone": {
+    "listen_url": "https://music.apple.com/in/album/instrumental-music/984588152?i=984588772&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e8/c4/ca/e8c4ca7d-0682-43bb-0827-a5fc9a13e569/mzaf_5050677373302361540.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/02/91/1f/02911ff8-4b36-a784-e5d8-efb68f588b89/cover.jpg/600x600bb.jpg",
+    "album": "Luxury Lounge",
+    "catalog_title": "Instrumental Music",
+    "catalog_artist": "Chill Lounge Music Zone",
+    "source": "Apple India catalog bundle"
+  },
+  "solfeggio frequency for brain stress relief, late at night|balance autonomic nerves with music therapy": {
+    "listen_url": "https://music.apple.com/in/album/solfeggio-frequency-for-brain-stress-relief-late-at-night/6815901181?i=6815901483&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/d4/61/86d4613c-d892-d462-0a90-93002250d61d/mzaf_13207593301233916636.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/0c/aa/1a0caa7a-6379-3485-9403-1ca42a0f52b5/4550760898349_cover.jpg/600x600bb.jpg",
+    "album": "Healing Sounds for Anxiety Relief - Music Therapy for Rest and Relaxation",
+    "catalog_title": "Solfeggio Frequency for Brain Stress Relief, Late At Night",
+    "catalog_artist": "Balance Autonomic Nerves with Music Therapy",
+    "source": "Apple India catalog bundle"
+  },
+  "kal ho naa ho|shankar ehsaan loy & sonu nigam": {
+    "listen_url": "https://music.apple.com/in/album/kal-ho-naa-ho/300388644?i=300388792&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/dc/3d/f2dc3d30-c133-b7db-b78f-235c1439f1f2/mzaf_956586774622856416.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/82/da/fb82dab1-d0cd-714c-000c-6450774fd5d4/888880945587.jpg/600x600bb.jpg",
+    "album": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+    "catalog_title": "Kal Ho Naa Ho",
+    "catalog_artist": "Shankar Ehsaan Loy & Sonu Nigam",
+    "source": "Apple India catalog bundle"
+  },
+  "my dil goes mmmm|vishal & shekhar, gayatri iyer & shaan": {
+    "listen_url": "https://music.apple.com/in/album/my-dil-goes-mmmm/673686068?i=673686210&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/a0/c2/eba0c223-0aa7-42bd-047a-26c6794bade4/mzaf_1231262330775546876.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f5/11/1d/f5111d96-0ade-8d52-85da-82cabfe91ca3/849486008090_cover.jpg/600x600bb.jpg",
+    "album": "Salaam Namaste (Original Motion Picture Soundtrack)",
+    "catalog_title": "My Dil Goes Mmmm",
+    "catalog_artist": "Vishal & Shekhar, Gayatri Iyer & Shaan",
+    "source": "Apple India catalog bundle"
+  },
+  "ae kash ke hum|jatin-lalit & kumar sanu": {
+    "listen_url": "https://music.apple.com/in/album/ae-kash-ke-hum/274118094?i=274118154&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/67/93/b1679343-b750-6924-a668-cb22f329ec35/mzaf_16323483661119624531.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/d6/0a/e6d60a7a-e6ee-6824-7e04-8739f0aa9f4e/5099749530828.jpg/600x600bb.jpg",
+    "album": "Kabhi Haan Kabhi Naa (Original Motion Picture Soundtrack)",
+    "catalog_title": "Ae Kash Ke Hum",
+    "catalog_artist": "Jatin-Lalit & Kumar Sanu",
+    "source": "Apple India catalog bundle"
+  },
+  "o mere dil ke chain|kishore kumar": {
+    "listen_url": "https://music.apple.com/in/album/o-mere-dil-ke-chain/1338704386?i=1338704938&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/ed/11/73ed119d-4f77-7e5a-a12a-625453c431bc/mzaf_14126741395245293091.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/62/03/b46203d4-ffce-982f-ba72-410240feb42c/191773212155.jpg/600x600bb.jpg",
+    "album": "Mere Jeevan Saathi (Original Motion Picture Soundtrack)",
+    "catalog_title": "O Mere Dil Ke Chain",
+    "catalog_artist": "Kishore Kumar",
+    "source": "Apple India catalog bundle"
+  },
+  "chaiyya chaiyya|sukhwinder singh & sapna awasthi": {
+    "listen_url": "https://music.apple.com/in/album/chaiyya-chaiyya/1130322055?i=1130322151&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/6c/e7/816ce721-3a37-0e57-3aa7-c3e180c4b38c/mzaf_10595670915474775723.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/f8/85/8ef88544-a6c7-018b-0a75-dc3b6b024fa0/cover.jpg/600x600bb.jpg",
+    "album": "Dil Se (Original Motion Picture Soundtrack)",
+    "catalog_title": "Chaiyya Chaiyya",
+    "catalog_artist": "Sukhwinder Singh & Sapna Awasthi",
+    "source": "Apple India catalog bundle"
+  },
+  "main yahaan hoon|udit narayan": {
+    "listen_url": "https://music.apple.com/in/album/main-yahaan-hoon/673583135?i=673583145&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/5c/ed/4c5ced5d-1a44-8434-ad20-4b5550022b46/mzaf_6284604560251344771.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/bf/16/54bf16a4-e56b-64aa-4afa-f5a122d1e283/849486008182_cover.jpg/600x600bb.jpg",
+    "album": "Veer-Zaara (Original Motion Picture Soundtrack)",
+    "catalog_title": "Main Yahaan Hoon",
+    "catalog_artist": "Udit Narayan",
+    "source": "Apple India catalog bundle"
+  },
+  "raataan lambiyan|tanishk bagchi, jubin nautiyal & asees kaur": {
+    "listen_url": "https://music.apple.com/in/album/raataan-lambiyan/1580955738?i=1580955743&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/0c/38/990c381b-0530-8c0d-87a9-18b050b97f0a/mzaf_10418866714500530894.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/600x600bb.jpg",
+    "album": "Shershaah (Original Motion Picture Soundtrack)",
+    "catalog_title": "Raataan Lambiyan",
+    "catalog_artist": "Tanishk Bagchi, Jubin Nautiyal & Asees Kaur",
+    "source": "Apple India catalog bundle"
+  },
+  "kesariya (from \"brahmastra\")|pritam, arijit singh & amitabh bhattacharya": {
+    "listen_url": "https://music.apple.com/in/album/kesariya-from-brahmastra/1635013814?i=1635014240&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/4c/5c/384c5c8f-3ff8-e457-b2f7-3158ce108649/mzaf_12389299033886433185.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/600x600bb.jpg",
+    "album": "Kesariya (From \"Brahmastra\") - Single",
+    "catalog_title": "Kesariya (From \"Brahmastra\")",
+    "catalog_artist": "Pritam, Arijit Singh & Amitabh Bhattacharya",
+    "source": "Apple India catalog bundle"
+  },
+  "tujhe kitna chahne lage|arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/tujhe-kitna-chahne-lage/1468448737?i=1468448742&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/f3/43/7ef34316-c0d1-4c3c-afc9-53716b8f3473/mzaf_13869194700915977502.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/600x600bb.jpg",
+    "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+    "catalog_title": "Tujhe Kitna Chahne Lage",
+    "catalog_artist": "Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "arjan vailly|manan bhardwaj & bhupinder babbal": {
+    "listen_url": "https://music.apple.com/in/album/arjan-vailly/1718278225?i=1718278228&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/4a/00/524a0053-71f4-a04f-fe2a-87a5b78bfeec/mzaf_1842370763618686453.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/600x600bb.jpg",
+    "album": "ANIMAL (Original Motion Picture Soundtrack)",
+    "catalog_title": "Arjan Vailly",
+    "catalog_artist": "Manan Bhardwaj & Bhupinder Babbal",
+    "source": "Apple India catalog bundle"
+  },
+  "ethir neechal|aadhi, anirudh ravichander & yo yo honey singh": {
+    "listen_url": "https://music.apple.com/in/album/ethir-neechal/587886340?i=587886498&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/5c/00/fb5c00b0-5307-dad1-9a06-d8886ea38b39/mzaf_10457165838461122586.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/4d/ea/084dea2a-4eb9-595f-8995-dec75a921358/886443807259.jpg/600x600bb.jpg",
+    "album": "Ethir Neechal (Original Motion Picture Soundtrack)",
+    "catalog_title": "Ethir Neechal",
+    "catalog_artist": "Aadhi, Anirudh Ravichander & Yo Yo Honey Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "spirit of jersey|kaala bhairava": {
+    "listen_url": "https://music.apple.com/in/album/spirit-of-jersey/1529547564?i=1529547566&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/a9/b6/dca9b68a-3b03-efb2-e0e4-0696e3fa981f/mzaf_16945447798445525037.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/79/d0/9279d067-bb03-ec01-cd1d-e02feb37000d/8718857677994.png/600x600bb.jpg",
+    "album": "Jersey (Original Motion Picture Soundtrack)",
+    "catalog_title": "Spirit of Jersey",
+    "catalog_artist": "Kaala Bhairava",
+    "source": "Apple India catalog bundle"
+  },
+  "motivational songs (workout music)|extreme music workout": {
+    "listen_url": "https://music.apple.com/in/album/motivational-songs-workout-music/1062859855?i=1062860626&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/fd/06/45fd0653-1c60-5353-1fc6-707bb0c77dfd/mzaf_15518985963252447610.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/51/a7/07/51a707bd-ec3f-fdf2-bf06-467bf4eb1cd8/8033772768634.jpg/600x600bb.jpg",
+    "album": "Capoeira, Best Workout Music - Brazilian Martial Arts, Top Workout Songs for Capoeira Dance, Latin Dances, Women Fitness, Aerobics & Cardio",
+    "catalog_title": "Motivational Songs (Workout Music)",
+    "catalog_artist": "Extreme Music Workout",
+    "source": "Apple India catalog bundle"
+  },
+  "motivational songs|studying music specialist": {
+    "listen_url": "https://music.apple.com/in/album/motivational-songs/1236783419?i=1236784161&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/38/51/ee385105-e6ea-4688-0c31-a36c97303849/mzaf_17322507794060070251.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/17/bb/d1/17bbd176-a6ed-6855-5134-1e77eb9e55a2/8033772872454.jpg/600x600bb.jpg",
+    "album": "Effective Study - Improve Mental Ability, Deep Concentration Isochronic Tones for Studying",
+    "catalog_title": "Motivational Songs",
+    "catalog_artist": "Studying Music Specialist",
+    "source": "Apple India catalog bundle"
+  },
+  "motivational songs|angela tree": {
+    "listen_url": "https://music.apple.com/in/album/motivational-songs/1080938172?i=1080938200&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/d8/2e/afd82eeb-6f67-3773-157f-e0acd1b68c76/mzaf_16338034934810976900.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/95/b0/2a95b048-ef77-5179-dbe2-4847e400ffd6/8033772776264.jpg/600x600bb.jpg",
+    "album": "Stress Relief at the Office - Workplace Background Music to Reduce Stress Levels and Improve Mood",
+    "catalog_title": "Motivational Songs",
+    "catalog_artist": "Angela Tree",
+    "source": "Apple India catalog bundle"
+  },
+  "naan naan|santhosh narayanan": {
+    "listen_url": "https://music.apple.com/in/album/naan-naan/1609244734?i=1609245166&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/c9/19/f0c919fe-fdb3-c3ce-f1a5-50c9c3096e42/mzaf_17156349017390426467.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/51/1e/1e511e98-ac18-a737-16d1-3a98e62604e1/886449921362.jpg/600x600bb.jpg",
+    "album": "Mahaan (Original Motion Picture Soundtrack)",
+    "catalog_title": "Naan Naan",
+    "catalog_artist": "Santhosh Narayanan",
+    "source": "Apple India catalog bundle"
+  },
+  "starboy (feat. daft punk)|the weeknd": {
+    "listen_url": "https://music.apple.com/in/album/starboy-feat-daft-punk/1440870373?i=1440870375&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/71/d6/1171d6ad-3c96-e027-2af6-58028426588c/mzaf_15137631797407745471.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/600x600bb.jpg",
+    "album": "Starboy",
+    "catalog_title": "Starboy (feat. Daft Punk)",
+    "catalog_artist": "The Weeknd",
+    "source": "Apple India catalog bundle"
+  },
+  "challa|romy, vivek hariharan, shashwat sachdev & kumaar": {
+    "listen_url": "https://music.apple.com/in/album/challa/1723467107?i=1723467110&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/1e/b6/df1eb6f5-a0b2-9592-b0f0-47a3e499cca3/mzaf_3036078667658333219.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/62/e6/a462e61d-dc38-c1e3-589f-3850e4666cd1/8909024013473.png/600x600bb.jpg",
+    "album": "Motivational Songs - Hindi",
+    "catalog_title": "Challa",
+    "catalog_artist": "Romy, Vivek Hariharan, Shashwat Sachdev & Kumaar",
+    "source": "Apple India catalog bundle"
+  },
+  "pathikichu (from \"vidaamuyarchi\")|anirudh ravichander, yogisekar & amogh balaji": {
+    "listen_url": "https://music.apple.com/in/album/pathikichu-from-vidaamuyarchi/1791364665?i=1791364666&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/0d/25/a30d259d-959b-c4a1-5fd6-3e7d39923e40/mzaf_7533851825890842591.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/26/6e/11266e7f-4079-9591-101a-77ae202589c9/196872810776.jpg/600x600bb.jpg",
+    "album": "Pathikichu (From \"Vidaamuyarchi\") - Single",
+    "catalog_title": "Pathikichu (From \"Vidaamuyarchi\")",
+    "catalog_artist": "Anirudh Ravichander, Yogisekar & Amogh Balaji",
+    "source": "Apple India catalog bundle"
+  },
+  "qaafirana|arijit singh & nikhita gandhi": {
+    "listen_url": "https://music.apple.com/in/album/qaafirana/1529543280?i=1529543285&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/0d/62/750d6208-e095-b2ef-0a2c-f6d8e81265a4/mzaf_9681567463159372823.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/5e/89/605e897e-5caa-b9ec-ac42-6a8c293dcc83/8718857673460.png/600x600bb.jpg",
+    "album": "Kedarnath (Original Motion Picture Soundtrack)",
+    "catalog_title": "Qaafirana",
+    "catalog_artist": "Arijit Singh & Nikhita Gandhi",
+    "source": "Apple India catalog bundle"
+  },
+  "yeh fitoor mera|arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/yeh-fitoor-mera/1529552789?i=1529552886&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/83/7b/1b837bc0-03ae-b3b2-c13c-461b49a10e19/mzaf_7252058858287839294.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/8f/99/c68f99d7-c2d2-8339-f406-0bde5dbece0f/8718857670360.png/600x600bb.jpg",
+    "album": "Fitoor (Original Motion Picture Soundtrack)",
+    "catalog_title": "Yeh Fitoor Mera",
+    "catalog_artist": "Arijit Singh",
+    "source": "Apple India catalog bundle"
+  },
+  "jeena jeena|sachin-jigar, atif aslam & priya saraiya": {
+    "listen_url": "https://music.apple.com/in/album/jeena-jeena/1842076709?i=1842076711&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/ea/88/5aea88a0-6745-8c45-0b15-8eddf4710733/mzaf_1338041153962981679.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/85/12/358512ee-128b-977f-40bc-669beb1bcc8d/196871079747.jpg/600x600bb.jpg",
+    "album": "Badlapur (Original Motion Picture Soundtrack)",
+    "catalog_title": "Jeena Jeena",
+    "catalog_artist": "Sachin-Jigar, Atif Aslam & Priya Saraiya",
+    "source": "Apple India catalog bundle"
+  },
+  "tere bina|a.r. rahman, chinmayi sripada, murtuza khan & qadir khan": {
+    "listen_url": "https://music.apple.com/in/album/tere-bina/264849882?i=264849919&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/61/64/236164d3-f330-d526-6045-d975a4be4a64/mzaf_17030153012157637966.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/8c/69/8d8c697e-f108-9e69-0cb1-475b45ab26a8/886970389020.jpg/600x600bb.jpg",
+    "album": "Guru (Original Motion Picture Soundtrack)",
+    "catalog_title": "Tere Bina",
+    "catalog_artist": "A.R. Rahman, Chinmayi Sripada, Murtuza Khan & Qadir Khan",
+    "source": "Apple India catalog bundle"
+  },
+  "desires|ap dhillon & gurinder gill": {
+    "listen_url": "https://music.apple.com/in/album/desires/1596475085?i=1596475453&uo=4",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/4c/fe/7d4cfee6-81c0-c2e3-121f-1953d63e12a8/mzaf_13111504098370235526.plus.aac.p.m4a",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/77/cb/2477cbbb-563f-5ef1-9b05-299a4f34e5f1/859751714458_cover.jpg/600x600bb.jpg",
+    "album": "Hidden Gems - EP",
+    "catalog_title": "Desires",
+    "catalog_artist": "AP Dhillon & Gurinder Gill",
+    "source": "Apple India catalog bundle"
   }
 }

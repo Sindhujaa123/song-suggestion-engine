@@ -9,6 +9,7 @@ from offline_catalog import MOODS, SONGS
 
 st.set_page_config(page_title="MoodMix · Find your feeling", page_icon="♫", layout="wide")
 MEDIA_FILE = Path(__file__).with_name("catalog_media.json")
+INDIA_FILE = Path(__file__).with_name("indian_catalog.json")
 
 
 def bundled_media() -> dict[str, dict[str, str]]:
@@ -18,6 +19,16 @@ def bundled_media() -> dict[str, dict[str, str]]:
         return json.loads(MEDIA_FILE.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return {}
+
+
+def indian_songs() -> list[dict[str, object]]:
+    if not INDIA_FILE.exists():
+        return []
+    try:
+        data = json.loads(INDIA_FILE.read_text(encoding="utf-8"))
+        return data if isinstance(data, list) else []
+    except (OSError, json.JSONDecodeError):
+        return []
 
 
 def add_styles() -> None:
@@ -52,6 +63,8 @@ def render_song(song: dict[str, object], index: int, media_index: dict[str, dict
     artist = str(song["artist"])
     score = int(song["score"])
     why = str(song["why"])
+    safe_title, safe_artist, safe_why = escape(title), escape(artist), escape(why)
+    language = f' · {escape(str(song["language"]))}' if song.get("language") else ""
     media = media_index.get(f"{title.casefold()}|{artist.casefold()}", {})
     listen_url = media.get("listen_url", "")
     artwork = media.get("artwork_url")
@@ -59,10 +72,10 @@ def render_song(song: dict[str, object], index: int, media_index: dict[str, dict
     st.markdown(
         f"""<div class="song-card">
         {cover}
-        <div><div class="song-title">{title}</div><div class="song-artist">{artist}</div>
+        <div><div class="song-title">{safe_title}</div><div class="song-artist">{safe_artist}{language}</div>
         <div class="pill-row"><span class="pill pill-score">{score}% curated mood fit</span>
         <span class="pill">Energy unavailable offline</span><span class="pill">BPM unavailable offline</span></div>
-        <div class="why">{why}</div></div></div>""",
+        <div class="why">{safe_why}</div></div></div>""",
         unsafe_allow_html=True,
     )
     left, right = st.columns([1, 5])
@@ -78,6 +91,7 @@ def main() -> None:
     add_styles()
     with st.sidebar:
         st.markdown('<div class="brand">mood<b>mix</b> ♫</div>', unsafe_allow_html=True)
+        market = st.radio("Choose music catalog", ["US · English", "India · Mixed languages"], label_visibility="visible")
         st.markdown("### Pick a mood")
         mood = st.selectbox("Mood", list(MOODS), label_visibility="collapsed")
         st.markdown("---")
@@ -90,10 +104,13 @@ def main() -> None:
         unsafe_allow_html=True,
     )
     st.markdown(f'<div class="section-label">{info["emoji"]} &nbsp; {mood} mood &nbsp; · &nbsp; {info["description"]}</div>', unsafe_allow_html=True)
-    songs = [song for song in SONGS if song["mood"] == mood]
+    if market.startswith("India"):
+        songs = [song for song in indian_songs() if song["mood"] == mood]
+    else:
+        songs = [song for song in SONGS if song["mood"] == mood]
     songs.sort(key=lambda song: int(song["score"]), reverse=True)
-    st.info("Mood scores are editorial fits, not audio-feature calculations. Direct listening links, artwork, and available official previews are bundled; this catalogue has no energy or BPM data.")
-    st.markdown(f"**{len(songs)} curated picks** · bundled locally · no catalog requests")
+    st.info("Mood scores are editorial fits, not audio-feature calculations. Direct listening links, artwork, and available official previews are bundled; energy and BPM data are unavailable offline.")
+    st.markdown(f"**{len(songs)} curated picks** · {market} · bundled locally · no catalog requests")
     left, right = st.columns(2)
     for index, song in enumerate(songs):
         target = left if index % 2 == 0 else right

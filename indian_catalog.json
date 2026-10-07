@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Aabaad Barbaad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Happy",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Tamil Old Songs",
+    "artist": "TPM",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Happy",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Happy",
+    "artist": "Karthik",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Happy",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Makhna",
+    "artist": "Tanishk Bagchi, Yasser Desai & Asees Kaur",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Happy",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Aasa Kooda (From \"Think Indie\")",
+    "artist": "Sai Abhyankkar & Sai Smriti",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Happy",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Sajni",
+    "artist": "Arijit Singh, Ram Sampath & Prashant Pandey",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Happy",
+    "score": 88,
+    "why": "A Hindi-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Rowdy Baby",
+    "artist": "Dhanush & Dhee",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Happy",
+    "score": 86,
+    "why": "A Tamil-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Shayad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Happy",
+    "score": 84,
+    "why": "A Telugu-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Happy",
+    "score": 82,
+    "why": "A Hindi-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra & Raj Shekhar",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Happy",
+    "score": 80,
+    "why": "A Tamil-language catalog pick curated for a happy listening mood."
+  },
+  {
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Sad",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Aasa Kooda (From \"Think Indie\")",
+    "artist": "Sai Abhyankkar & Sai Smriti",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Sad",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Badhulu Thochanai",
+    "artist": "Karthik & Mallikarjun",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Sad",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Tujhe Bhula Diya",
+    "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Sad",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Apna Bana Le (From \"Bhediya\")",
+    "artist": "Arijit Singh, Sachin-Jigar & Amitabh Bhattacharya",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Sad",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Oke Oka Jeevitham",
+    "artist": "Haricharan",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Sad",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Sad",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Kabira",
+    "artist": "Pritam, Tochi Raina & Rekha Bhardwaj",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Sad",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Nammaka Tappani",
+    "artist": "Sagar",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Sad",
+    "score": 82,
+    "why": "A Telugu-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Sad",
+    "score": 80,
+    "why": "A Hindi-language catalog pick curated for a sad listening mood."
+  },
+  {
+    "title": "Bekhayali",
+    "artist": "Sachet Tandon",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Telisiney Na Nuvvey",
+    "artist": "Revanth",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Tujhe Bhula Diya",
+    "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Aasa Kooda (From \"Think Indie\")",
+    "artist": "Sai Abhyankkar & Sai Smriti",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Dhooram Dhooram",
+    "artist": "Tippu",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Baller",
+    "artist": "Shubh & Ikky",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Chuttamalle (From \"Devara Part 1\")",
+    "artist": "Anirudh Ravichander, Shilpa Rao & Ramajogayya Sastry",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 82,
+    "why": "A Telugu-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Baarishein",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Breakup",
+    "score": 80,
+    "why": "A Hindi-language catalog pick curated for a breakup listening mood."
+  },
+  {
+    "title": "Shayad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Calm",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",
+    "artist": "Mithoon",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Calm",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra & Raj Shekhar",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Calm",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Calm",
+    "score": 92,
+    "why": "A Tamil-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Aabaad Barbaad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Calm",
+    "score": 90,
+    "why": "A Telugu-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Tum Ho",
+    "artist": "Mohit Chauhan & Suzanne D'Mello",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Calm",
+    "score": 88,
+    "why": "A Tamil-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Sahiba",
+    "artist": "Aditya Rikhari",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Calm",
+    "score": 86,
+    "why": "A Tamil-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Ae Dil Hai Mushkil (Title Track)",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Calm",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "For A Reason",
+    "artist": "Karan Aujla & Ikky",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Calm",
+    "score": 82,
+    "why": "A Telugu-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "Shree Hanuman Chalisa",
+    "artist": "Hariharan",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Calm",
+    "score": 80,
+    "why": "A Hindi-language catalog pick curated for a calm listening mood."
+  },
+  {
+    "title": "One Love",
+    "artist": "Shubh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Tum Se Hi",
+    "artist": "Pritam & Mohit Chauhan",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Hawayein",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 94,
+    "why": "A Hindi-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Softly",
+    "artist": "Karan Aujla & Ikky",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 92,
+    "why": "A Tamil-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Dooriyan",
+    "artist": "Pritam & Mohit Chauhan",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 90,
+    "why": "A Hindi-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Dil Nu",
+    "artist": "AP Dhillon & Shinda Kahlon",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 88,
+    "why": "A Tamil-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Khuda Jaane",
+    "artist": "Vishal & Shekhar, KK & Shilpa Rao",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 82,
+    "why": "A Hindi-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Love Songs (Bonus)",
+    "artist": "Kaash Paige",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Romantic",
+    "score": 80,
+    "why": "A Tamil-language catalog pick curated for a romantic listening mood."
+  },
+  {
+    "title": "Abhi Toh Party Shuru Hui Hai",
+    "artist": "Badshah & Aastha",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Arabic Kuthu (From \"Beast\")",
+    "artist": "Anirudh Ravichander & Jonita Gandhi",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Kurchi Madathapetti (From \"Guntur Kaaram\")",
+    "artist": "S.S. Thaman, Sri Krishna, Sahithi Chaganti & Saraswati Putra Ramajogayya Sastry",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "London Thumakda",
+    "artist": "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Hayyoda x 1",
+    "artist": "MIXED UP",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Ayudha Pooja - TELUGU",
+    "artist": "Anirudh Ravichander, Kaala Bhairava & Ramajogayya Sastry",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Badtameez Dil",
+    "artist": "Pritam, Benny Dayal & Shefali Alvares",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Kaara Aattakkaara",
+    "artist": "A.R. Rahman, Aaryan Dinesh Kanagaratnam, Darshana KT & Shashaa Tirupati",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 82,
+    "why": "A Telugu-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Energetic",
+    "score": 80,
+    "why": "A Hindi-language catalog pick curated for a energetic listening mood."
+  },
+  {
+    "title": "Calm Down",
+    "artist": "Rema & Selena Gomez",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Focus",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Instrumental Music",
+    "artist": "Solenne Whisper",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Focus",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Focus",
+    "score": 94,
+    "why": "A Hindi-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Instrumental Music",
+    "artist": "Jazz Guitar Music Zone",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Focus",
+    "score": 92,
+    "why": "A Tamil-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Paradise",
+    "artist": "Coldplay",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Focus",
+    "score": 90,
+    "why": "A Hindi-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Instrumental Music",
+    "artist": "Hornelia Driftwood",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Focus",
+    "score": 88,
+    "why": "A Tamil-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "The Ultimate Frequency for Gentle Brain Healing",
+    "artist": "Balance Autonomic Nerves with Music Therapy",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Focus",
+    "score": 86,
+    "why": "A Telugu-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Side To Side (feat. Nicki Minaj)",
+    "artist": "Ariana Grande",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Focus",
+    "score": 84,
+    "why": "A Hindi-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Instrumental Music",
+    "artist": "Chill Lounge Music Zone",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Focus",
+    "score": 82,
+    "why": "A Tamil-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Solfeggio Frequency for Brain Stress Relief, Late At Night",
+    "artist": "Balance Autonomic Nerves with Music Therapy",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Focus",
+    "score": 80,
+    "why": "A Telugu-language catalog pick curated for a focus listening mood."
+  },
+  {
+    "title": "Kal Ho Naa Ho",
+    "artist": "Shankar Ehsaan Loy & Sonu Nigam",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "My Dil Goes Mmmm",
+    "artist": "Vishal & Shekhar, Gayatri Iyer & Shaan",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Ae Kash Ke Hum",
+    "artist": "Jatin-Lalit & Kumar Sanu",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 94,
+    "why": "A Hindi-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",
+    "artist": "Mithoon",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 92,
+    "why": "A Telugu-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "O Mere Dil Ke Chain",
+    "artist": "Kishore Kumar",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 90,
+    "why": "A Hindi-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Dooriyan",
+    "artist": "Pritam & Mohit Chauhan",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Chaiyya Chaiyya",
+    "artist": "Sukhwinder Singh & Sapna Awasthi",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Main Yahaan Hoon",
+    "artist": "Udit Narayan",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 84,
+    "why": "A Hindi-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 82,
+    "why": "A Tamil-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Chuttamalle (From \"Devara Part 1\")",
+    "artist": "Anirudh Ravichander, Shilpa Rao & Ramajogayya Sastry",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Nostalgic",
+    "score": 80,
+    "why": "A Telugu-language catalog pick curated for a nostalgic listening mood."
+  },
+  {
+    "title": "Shayad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Raataan Lambiyan",
+    "artist": "Tanishk Bagchi, Jubin Nautiyal & Asees Kaur",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 96,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra & Raj Shekhar",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 94,
+    "why": "A Tamil-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Kesariya (From \"Brahmastra\")",
+    "artist": "Pritam, Arijit Singh & Amitabh Bhattacharya",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Aabaad Barbaad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 86,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Softly",
+    "artist": "Karan Aujla & Ikky",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 84,
+    "why": "A Tamil-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Tum Se Hi",
+    "artist": "Pritam & Mohit Chauhan",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 82,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Khuda Jaane",
+    "artist": "Vishal & Shekhar, KK & Shilpa Rao",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Late Night",
+    "score": 80,
+    "why": "A Hindi-language catalog pick curated for a late night listening mood."
+  },
+  {
+    "title": "Arjan Vailly",
+    "artist": "Manan Bhardwaj & Bhupinder Babbal",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Ethir Neechal",
+    "artist": "Aadhi, Anirudh Ravichander & Yo Yo Honey Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Spirit of Jersey",
+    "artist": "Kaala Bhairava",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 94,
+    "why": "A Telugu-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Motivational Songs (Workout Music)",
+    "artist": "Extreme Music Workout",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 92,
+    "why": "A Hindi-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Motivational Songs",
+    "artist": "Studying Music Specialist",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 90,
+    "why": "A Tamil-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Motivational Songs",
+    "artist": "Angela Tree",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 88,
+    "why": "A Telugu-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Naan Naan",
+    "artist": "Santhosh Narayanan",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 86,
+    "why": "A Tamil-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Starboy (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 84,
+    "why": "A Telugu-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Challa",
+    "artist": "Romy, Vivek Hariharan, Shashwat Sachdev & Kumaar",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 82,
+    "why": "A Hindi-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Pathikichu (From \"Vidaamuyarchi\")",
+    "artist": "Anirudh Ravichander, Yogisekar & Amogh Balaji",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Motivational",
+    "score": 80,
+    "why": "A Tamil-language catalog pick curated for a motivational listening mood."
+  },
+  {
+    "title": "Qaafirana",
+    "artist": "Arijit Singh & Nikhita Gandhi",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 98,
+    "why": "A Hindi-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Yeh Fitoor Mera",
+    "artist": "Arijit Singh",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 96,
+    "why": "A Tamil-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Jeena Jeena",
+    "artist": "Sachin-Jigar, Atif Aslam & Priya Saraiya",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 94,
+    "why": "A Hindi-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Tere Bina",
+    "artist": "A.R. Rahman, Chinmayi Sripada, Murtuza Khan & Qadir Khan",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 92,
+    "why": "A Tamil-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 90,
+    "why": "A Hindi-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Raataan Lambiyan",
+    "artist": "Tanishk Bagchi, Jubin Nautiyal & Asees Kaur",
+    "language": "Tamil",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 88,
+    "why": "A Tamil-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Aabaad Barbaad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 86,
+    "why": "A Telugu-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Shayad",
+    "artist": "Pritam & Arijit Singh",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 84,
+    "why": "A Telugu-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Dooriyan",
+    "artist": "Pritam & Mohit Chauhan",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 82,
+    "why": "A Telugu-language catalog pick curated for a dreamy listening mood."
+  },
+  {
+    "title": "Desires",
+    "artist": "AP Dhillon & Gurinder Gill",
+    "language": "Telugu",
+    "market": "India",
+    "mood": "Dreamy",
+    "score": 80,
+    "why": "A Telugu-language catalog pick curated for a dreamy listening mood."
+  }
+]
