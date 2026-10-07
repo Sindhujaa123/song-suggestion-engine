@@ -91,7 +91,7 @@ def main() -> None:
     add_styles()
     with st.sidebar:
         st.markdown('<div class="brand">mood<b>mix</b> ♫</div>', unsafe_allow_html=True)
-        market = st.radio("Choose music catalog", ["US · English", "India · Mixed languages"], label_visibility="visible")
+        market = st.radio("Choose music catalog", ["US · English", "India · Hindi & Telugu"], label_visibility="visible")
         st.markdown("### Pick a mood")
         mood = st.selectbox("Mood", list(MOODS), label_visibility="collapsed")
         st.markdown("---")
