@@ -581,12 +581,10 @@
   },
   "telisiney na nuvvey|revanth": {
     "listen_url": "https://music.apple.com/in/album/telisiney-na-nuvvey/1273980182?i=1273980411&uo=4",
-    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/3f/12963f0a-8137-d820-4106-b9e170f786c1/mzaf_1721577138151631520.plus.aac.p.m4a",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/69/41/e769411f-3254-3078-db60-ef38034e156b/cover.jpg/600x600bb.jpg",
     "album": "Arjun Reddy (Original Motion Picture Soundtrack)",
-    "catalog_title": "Telisiney Na Nuvvey",
-    "catalog_artist": "Revanth",
-    "source": "Apple India catalog bundle"
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/3f/12963f0a-8137-d820-4106-b9e170f786c1/mzaf_1721577138151631520.plus.aac.p.m4a"
   },
   "dhooram dhooram|tippu": {
     "listen_url": "https://music.apple.com/in/album/dhooram-dhooram/925475540?i=925475638&uo=4",
@@ -959,12 +957,10 @@
   },
   "spirit of jersey|kaala bhairava": {
     "listen_url": "https://music.apple.com/in/album/spirit-of-jersey/1529547564?i=1529547566&uo=4",
-    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/a9/b6/dca9b68a-3b03-efb2-e0e4-0696e3fa981f/mzaf_16945447798445525037.plus.aac.p.m4a",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/79/d0/9279d067-bb03-ec01-cd1d-e02feb37000d/8718857677994.png/600x600bb.jpg",
     "album": "Jersey (Original Motion Picture Soundtrack)",
-    "catalog_title": "Spirit of Jersey",
-    "catalog_artist": "Kaala Bhairava",
-    "source": "Apple India catalog bundle"
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/a9/b6/dca9b68a-3b03-efb2-e0e4-0696e3fa981f/mzaf_16945447798445525037.plus.aac.p.m4a"
   },
   "motivational songs (workout music)|extreme music workout": {
     "listen_url": "https://music.apple.com/in/album/motivational-songs-workout-music/1062859855?i=1062860626&uo=4",
@@ -1172,13 +1168,17 @@
     "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/f8/90/e3f8900c-2715-bc21-da88-029323872e2d/mzaf_17907800010739730462.plus.aac.p.m4a"
   },
   "ammaadi|shakthisree gopalan & kaala bhairava": {
-    "listen_url": "https://music.apple.com/in/album/ammaadi/1721188515?i=1721188761&uo=4",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/4c/1d/644c1db5-68f8-0640-21e2-dd440f7290e7/8903431963253_cover.jpg/100x100bb.jpg",
-    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/10/0a/18100a51-45bc-e7cd-5672-3fe7ef0e9786/mzaf_8374829122731402339.plus.aac.p.m4a"
+    "listen_url": "https://music.apple.com/in/album/ammaadi-from-hi-nanna/1715103174?i=1715103175&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/22/d5/7522d5e9-39b3-eb12-28e5-ba40106391f9/8903431969712_cover.jpg/600x600bb.jpg",
+    "album": "Ammaadi (From \"Hi Nanna\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8e/c0/ba/8ec0ba64-ca32-a331-3e45-1fd013ac1a82/mzaf_434065871170568529.plus.aac.p.m4a"
   },
   "ninnila|armaan malik": {
     "listen_url": "https://music.apple.com/in/album/ninnila/1338093854?i=1338094227&uo=4",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/f9/14/faf9147c-3649-5a46-ec14-cdede9c95302/cover.jpg/100x100bb.jpg",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/f9/14/faf9147c-3649-5a46-ec14-cdede9c95302/cover.jpg/600x600bb.jpg",
+    "album": "Toliprema (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
     "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/e7/48/9ae7482f-8217-20ce-3367-377647cc461d/mzaf_14393249472115935482.plus.aac.p.m4a"
   },
   "faded|alan walker": {
@@ -1245,5 +1245,439 @@
     "listen_url": "https://music.apple.com/in/album/emai-poyave/1446276974?i=1446276981&uo=4",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/eb/ba/91ebba15-5f34-b3ef-3389-fef1191a622c/8903431700940_cover.jpg/100x100bb.jpg",
     "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/1c/07/b21c07ab-8679-828a-58cf-fecd62091288/mzaf_5182696325688746849.plus.aac.p.m4a"
+  },
+  "butta bomma|armaan malik": {
+    "listen_url": "https://music.apple.com/in/album/butta-bomma-remix-from-ala-vaikunthapurramuloo/1736706821?i=1736707044&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/aa/48/46aa4863-c1ec-4574-e98e-80b8c1f3ef69/cover.jpg/600x600bb.jpg",
+    "album": "Butta Bomma (Remix) [From \"Ala Vaikunthapurramuloo\"] - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/28/e0/d3/28e0d30a-2afe-66e4-ac03-69b6d779fecd/mzaf_7857615290499608693.plus.aac.p.m4a"
+  },
+  "ramuloo ramulaa|anurag kulkarni & mangli": {
+    "listen_url": "https://music.apple.com/in/album/ramuloo-ramulaa-from-ala-vaikunthapurramuloo/1485104772?i=1485104774&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4d/7c/4a/4d7c4a33-0c3b-b0e5-1e5a-8182d9a25811/cover.jpg/600x600bb.jpg",
+    "album": "Ramuloo Ramulaa (From \"Ala Vaikunthapurramuloo\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/7b/7d/217b7d89-df73-12db-ca5f-2fee71f47dce/mzaf_2385408187580859158.plus.aac.p.m4a"
+  },
+  "vachinde|madhu priya & ramky": {
+    "listen_url": "https://music.apple.com/in/album/vachinde/1257624898?i=1257624905&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9b/45/fb/9b45fb80-2a39-0f37-d5dc-7eafeafb276d/cover.jpg/600x600bb.jpg",
+    "album": "Fidaa (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/31/45/fe3145e6-afc0-f9c1-0bfd-88508bfad0a3/mzaf_17484838886985075985.plus.aac.p.m4a"
+  },
+  "seeti maar|jaspreet jasz & rita": {
+    "listen_url": "https://music.apple.com/in/album/seeti-maar/1247180103?i=1247180141&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/4f/f3/36/4ff33640-03e6-f00c-8725-8dd639f009ca/cover.jpg/600x600bb.jpg",
+    "album": "DJ (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/27/f3/fb27f37e-70d9-efcd-0141-d995b1ec0b6f/mzaf_12981339531635452970.plus.aac.p.m4a"
+  },
+  "ringa ringa|devi sri prasad": {
+    "listen_url": "https://music.apple.com/in/album/ringa-ringa/337856141?i=337856270&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/cb/87/c0cb876b-471b-abe7-d8b0-17f3c7c452fd/884977369298.jpg/600x600bb.jpg",
+    "album": "Aarya - 2 (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/6b/0f/eb6b0f1b-476f-84c8-4d29-ab15138db282/mzaf_4494872200492777745.plus.aac.p.m4a"
+  },
+  "top lesi poddi|sagar & geetha madhuri": {
+    "listen_url": "https://music.apple.com/in/album/top-lesi-poddi/923079963?i=923079986&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/0d/61/4f0d6107-f342-ad1d-268f-bf5f85d3ac46/cover.jpg/600x600bb.jpg",
+    "album": "Idharammayilatho (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/85/ff/7385ff76-5d53-055c-a4f9-d12b38fe9fb3/mzaf_5324401089345324736.plus.aac.p.m4a"
+  },
+  "blockbuster|nakash aziz & shreya ghoshal": {
+    "listen_url": "https://music.apple.com/in/album/blockbuster/1107092692?i=1107092914&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/44/92/544492c4-8588-96a7-8adb-a45e0403c0e5/8903431616685_cover.jpg/600x600bb.jpg",
+    "album": "Sarrainodu (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/1c/58/721c585f-d675-43a8-cd0b-314769850ad9/mzaf_16988842974767255529.plus.aac.p.m4a"
+  },
+  "tharagathi pathos|kaala bhairava": {
+    "listen_url": "https://music.apple.com/in/album/tharagathi-pathos/1537821374?i=1537821465&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/30/95/943095e8-1839-259f-0781-2165704698a5/cover.jpg/600x600bb.jpg",
+    "album": "Colour Photo (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/2e/c5/102ec53d-73fd-c677-d044-f7b9f4124564/mzaf_14912437444618921158.plus.aac.p.m4a"
+  },
+  "kanulalo thadigaa|chaitra ambadipudi": {
+    "listen_url": "https://music.apple.com/in/album/kanulalo-thadigaa/1397180878?i=1397180885&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/6a/06/d66a068b-1b62-35d4-6e24-6109bebc8fb0/cover.jpg/600x600bb.jpg",
+    "album": "Sammohanam (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/c9/b4/afc9b45d-39d4-d335-82e1-d924dc339772/mzaf_12448914844042989758.plus.aac.p.m4a"
+  },
+  "oosupodu|hemachandra": {
+    "listen_url": "https://music.apple.com/in/album/oosupodu/1257624898?i=1257625247&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9b/45/fb/9b45fb80-2a39-0f37-d5dc-7eafeafb276d/cover.jpg/600x600bb.jpg",
+    "album": "Fidaa (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/46/b6/8246b693-1335-60a0-5d39-9faf9663a5a5/mzaf_17117990304818338977.plus.aac.p.m4a"
+  },
+  "undiporaadhey (sad version)|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/undiporaadhey-sad-version-from-hushaaru/1447082812?i=1447082830&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ee/f2/d3/eef2d3a8-0bda-3629-9122-ea217ce00bdc/cover.jpg/600x600bb.jpg",
+    "album": "Undiporaadhey (Sad Version) [From \"Hushaaru\"] - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b4/69/d7/b469d71b-25dc-bd57-6e55-8ad548516f06/mzaf_7823448009017990398.plus.aac.p.m4a"
+  },
+  "kanureppala kaalam|gopi sundar": {
+    "listen_url": "https://music.apple.com/in/album/kanureppala-kaalam/1419151786?i=1419152732&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/f1/52/68f1523b-3c40-f2cc-7d4a-376642897adb/cover.jpg/600x600bb.jpg",
+    "album": "Geetha Govindam (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/e9/ef/1ce9efc5-b212-dcf6-4fa2-85656c539ad9/mzaf_6382002470038332816.plus.aac.p.m4a"
+  },
+  "adhento gaani vunnapaatuga|anirudh ravichander & sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/adhento-gaani-vunnapaatuga/1529547564?i=1529547565&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/79/d0/9279d067-bb03-ec01-cd1d-e02feb37000d/8718857677994.png/600x600bb.jpg",
+    "album": "Jersey (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/9c/4b/f19c4b64-0347-afc5-b88c-5b2c3f48b1a0/mzaf_17596197404174098685.plus.aac.p.m4a"
+  },
+  "priyathama|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/priyathama-from-kotha-kothaga/1608629663?i=1608629665&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/14/c0/4814c005-ceb9-dc5f-edaa-f46b99cd8fc0/cover.jpg/600x600bb.jpg",
+    "album": "Priyathama (From\"Kotha Kothaga\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/17/06/f8/1706f89b-fb7d-60d3-e57f-b1fca60bc66d/mzaf_15332029167413579785.plus.aac.p.m4a"
+  },
+  "gaaju bomma|hesham abdul wahab": {
+    "listen_url": "https://music.apple.com/in/album/gaaju-bomma-from-hi-nanna/1710696117?i=1710696118&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/74/ab/1074ab8b-f643-c6d6-4e51-95270cc92f40/8903431965332_cover.jpg/600x600bb.jpg",
+    "album": "Gaaju Bomma (From \"Hi Nanna\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/55/11/b8/5511b863-50e7-291f-3a98-3b4b6b3a1495/mzaf_17431284647476847772.plus.aac.p.m4a"
+  },
+  "nannaku prematho (title song)|sagar": {
+    "listen_url": "https://music.apple.com/in/album/nannaku-prematho-from-nannaku-prematho/1076321763?i=1076322074&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/f0/93/40f0930e-17ef-a3b9-ff60-5cdaa30b0e4f/190374276801.jpg/600x600bb.jpg",
+    "album": "Nannaku Prematho (From \"Nannaku Prematho\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/5e/e8/a25ee8d5-1db8-59ec-a3b2-ca50e4f1b4f7/mzaf_7163744500023866446.plus.aac.p.m4a"
+  },
+  "selavanuko|chaitra": {
+    "listen_url": "https://music.apple.com/in/album/selavanuko/799445041?i=799445067&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/aa/aa/c5/aaaac57b-ddf1-b06b-8b2e-f8e3f74d7ba7/888608279338.jpg/600x600bb.jpg",
+    "album": "Heart Attack (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/96/81/fa968172-68be-414b-44e3-3d7b1a888870/mzaf_12804539111517314525.plus.aac.p.m4a"
+  },
+  "em cheppanu|karthik": {
+    "listen_url": "https://music.apple.com/in/album/em-cheppanu/1069640774?i=1069640785&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/75/c5/13/75c513b7-548b-336e-e84d-62adc439db20/cover.jpg/600x600bb.jpg",
+    "album": "Nenu Sailaja (Original Motion PIcture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/8b/48/d38b489c-2555-e76c-9808-9ce481d6f00c/mzaf_17963636510840711409.plus.aac.p.m4a"
+  },
+  "povodhe prema|yuvan shankar raja": {
+    "listen_url": "https://music.apple.com/in/album/povodhe-prema/931716885?i=931716929&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/23/8b/60238b0a-47d8-3c62-a227-2a18104dbc8f/cover.jpg/600x600bb.jpg",
+    "album": "Oy (Original Motion Picture Soundtrack) - EP",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/11/14/6e111485-7657-3a78-59eb-bf198ec08f4a/mzaf_12451905593332551107.plus.aac.p.m4a"
+  },
+  "atu nuvve|neha bhasin": {
+    "listen_url": "https://music.apple.com/in/album/atu-nuvve/924913107?i=924913143&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/46/ff/82/46ff82a9-6d09-1cfa-83bc-1c3c071d3435/cover.jpg/600x600bb.jpg",
+    "album": "Current (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/9d/66/219d663a-d2c8-4d49-f5c2-db6f8f5abf98/mzaf_15577509497503423755.plus.aac.p.m4a"
+  },
+  "yellipoke shyamala|karthik": {
+    "listen_url": "https://music.apple.com/in/album/yellipoke-shyamala/1109396809?i=1109396985&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a6/f7/ba/a6f7ba6a-1e7b-f4f7-af19-f4a45ff06246/cover.jpg/600x600bb.jpg",
+    "album": "A Aa (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/ee/46/77ee4696-cee5-f57a-de83-e7da71757f57/mzaf_10933645775151758243.plus.aac.p.m4a"
+  },
+  "cheppave balamani|sweekar agasthi": {
+    "listen_url": "https://music.apple.com/in/album/cheppave-balamani/1340306200?i=1340307634&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ab/56/75/ab5675d0-006e-721a-4b56-6cb1383b8979/cover.jpg/600x600bb.jpg",
+    "album": "Chalo (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/1b/f9/bf1bf96a-1dc6-e6bf-03e3-e5420d02e4f5/mzaf_8582555177240377008.plus.aac.p.m4a"
+  },
+  "paruvam vanaga|s. p. balasubrahmanyam & sujatha": {
+    "listen_url": "https://music.apple.com/in/album/paruvam-vanaga/1837669635?i=1837669845&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/bc/a7/e4bca7c9-8ce6-01df-0d60-ccd83091b1d4/8905750019468.jpg/600x600bb.jpg",
+    "album": "Roja (Original Motion Picture Soundtrack) - EP",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/4f/54/144f54bb-f8e2-9a7a-b02f-3322286d6397/mzaf_18440706422732369558.plus.aac.p.m4a"
+  },
+  "doorame theeramai|harshavardhan rameshwar & sameera bharadwaj": {
+    "listen_url": "https://music.apple.com/in/album/doorame-theeramai-from-devil-the-british-secret-agent/1721735811?i=1721735812&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/21/ba/f621bad1-841e-1cd7-f998-051bab09e6d3/197338149010.jpg/600x600bb.jpg",
+    "album": "Doorame Theeramai (From \"Devil - The British Secret Agent\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/9e/88/629e8884-bbe9-26d7-799e-3bc1764576b4/mzaf_16017790429756134099.plus.aac.p.m4a"
+  },
+  "anuvanuvuu|arijit singh": {
+    "listen_url": "https://music.apple.com/in/album/anuvanuvuu/1738607850?i=1738608216&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/90/4e/4e904ea0-cd94-5409-0631-b1f63ac44715/cover.jpg/600x600bb.jpg",
+    "album": "Om Bheem Bush (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/b6/c7/abb6c746-e4e0-d265-5832-2ed57ec07850/mzaf_9477828004996718024.plus.aac.p.m4a"
+  },
+  "o cheli thaara|haricharan": {
+    "listen_url": "https://music.apple.com/in/album/o-cheli-thaara/1397180878?i=1397180884&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/6a/06/d66a068b-1b62-35d4-6e24-6109bebc8fb0/cover.jpg/600x600bb.jpg",
+    "album": "Sammohanam (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/90/ea/be90eaf3-0402-6dd7-c512-64087f328977/mzaf_9056265156970707917.plus.aac.p.m4a"
+  },
+  "priyathama priyathama|chinmayi sripada": {
+    "listen_url": "https://music.apple.com/in/album/priyathama-priyathama/1457658537?i=1457658545&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/3e/04/0e3e04f9-6732-2694-932e-9ffd47779f91/cover.jpg/600x600bb.jpg",
+    "album": "Majili (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/c2/d5/a6c2d507-f120-46e2-5057-9db3adc54d3f/mzaf_9714569010590451692.plus.aac.p.m4a"
+  },
+  "vellipomaakey|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/vellipomaakey-from-sahasam-swasaga-sagipo/1440643284?i=1440643439&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ed/20/6c/ed206c2f-ccac-3f51-a88c-7671e4dcfe40/cover.jpg/600x600bb.jpg",
+    "album": "Musical Magic of Sid Sriram",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/2c/54/e82c54c3-7fbf-15b4-4b95-7ab3b98e1ff0/mzaf_6559395221134432095.plus.aac.p.m4a"
+  },
+  "yenti yenti|chinmayi sripada": {
+    "listen_url": "https://music.apple.com/in/album/yenti-yenti/1419151786?i=1419152677&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/f1/52/68f1523b-3c40-f2cc-7d4a-376642897adb/cover.jpg/600x600bb.jpg",
+    "album": "Geetha Govindam (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ef/ff/5eefff68-e026-2b8e-5999-b6d01a9e3232/mzaf_15343903785544506669.plus.aac.p.m4a"
+  },
+  "nadhive|hesham abdul wahab & rakendu mouli": {
+    "listen_url": "https://music.apple.com/in/album/nadhive-from-the-girlfriend/1826975975?i=1826975976&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/cc/2e/d5cc2e7d-e959-eba0-9406-1d206b275e2a/8903431095169_cover.jpg/600x600bb.jpg",
+    "album": "Nadhive (From \"The Girlfriend\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/68/ec/0768ec37-beb8-7475-ff9d-a240cf40e20a/mzaf_1603740725311644218.plus.aac.p.m4a"
+  },
+  "chuttamalle|shilpa rao": {
+    "listen_url": "https://music.apple.com/in/album/chuttamalle-from-devara-part-1/1761152592?i=1761152593&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/600x600bb.jpg",
+    "album": "Chuttamalle (From \"Devara Part 1\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/28/29/f92829b4-5473-17a9-879a-2efe96b8f95b/mzaf_4766756883763132198.plus.aac.p.m4a"
+  },
+  "inkem inkem inkem kaavaale|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/inkem-inkem-inkem-kaavaale-from-geetha-govindam/1440643284?i=1440643298&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ed/20/6c/ed206c2f-ccac-3f51-a88c-7671e4dcfe40/cover.jpg/600x600bb.jpg",
+    "album": "Musical Magic of Sid Sriram",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/eb/b2/0cebb274-abbb-6b34-125c-b7c4c7c4c857/mzaf_6482076667107757694.plus.aac.p.m4a"
+  },
+  "samajavaragamana|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/samajavaragamana/1495371405?i=1495371407&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/94/b5/51/94b551b2-036f-4d49-cf7b-9a2cd9056ef8/cover.jpg/600x600bb.jpg",
+    "album": "Ala Vaikunthapurramuloo (Original Motion Pictures Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/78/9d/1c789dba-8f49-b4bc-3424-5dbc13b08585/mzaf_16657908545933741168.plus.aac.p.m4a"
+  },
+  "nenu nuvvantu|naresh iyer": {
+    "listen_url": "https://music.apple.com/in/album/nenu-nuvvantu/931714546?i=931714575&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/72/a6/7272a66e-c071-641c-1c88-8f2495d18d4e/cover.jpg/600x600bb.jpg",
+    "album": "Orange (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/79/b1/1879b127-5bfa-6a32-f6d1-9c14f42cd306/mzaf_473814996909398735.plus.aac.p.m4a"
+  },
+  "kadalalle|sid sriram & aishwarya ravichandran": {
+    "listen_url": "https://music.apple.com/in/album/kadalalle/1474048950?i=1474048958&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/34/9a/b0349aa0-c9e3-d5b0-0c63-f973d5259f58/8903431718556_cover.jpg/600x600bb.jpg",
+    "album": "Dear Comrade (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/7a/7e/e17a7e48-fb87-e7b7-9ad4-fe959313b080/mzaf_3424967942281023373.plus.aac.p.m4a"
+  },
+  "adiga adiga|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/adiga-adiga/1695566322?i=1695566605&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/81/43/988143ca-e902-4e8a-977c-3e31eefcfaab/196925399784.jpg/600x600bb.jpg",
+    "album": "Ninnu Kori (Original Motion Picture Soundtrack) - EP",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/b1/cc/26b1cc73-b2b9-d8da-aa74-030f885eed63/mzaf_13537076213764508120.plus.aac.p.m4a"
+  },
+  "yentha sakkagunnave|devi sri prasad": {
+    "listen_url": "https://music.apple.com/in/album/yentha-sakkagunnave/1836157976?i=1836157978&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/36/98/a336986b-1ce1-5f2f-c0f5-c4a6326539b4/8905750034065.jpg/600x600bb.jpg",
+    "album": "Rangasthalam (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/08/4b/fe084b36-be28-f329-aefa-9a1e1459c380/mzaf_15715024838313412258.plus.aac.p.m4a"
+  },
+  "race gurram|usha uthup & thaman s": {
+    "listen_url": "https://music.apple.com/in/album/race-gurram/1792142278?i=1792142284&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/da/0d/aada0de7-7c3f-0001-f75d-51f9cb3d9b19/3617229186483.jpg/600x600bb.jpg",
+    "album": "Race Gurram (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/d2/b9/8cd2b917-49d7-369a-1902-5c0c5d2bc6c4/mzaf_11438454202565865127.plus.aac.p.m4a"
+  },
+  "nee dookudu|shankar mahadevan": {
+    "listen_url": "https://music.apple.com/in/album/nee-dookudu/925138761?i=925138862&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/d7/f2/3bd7f235-5583-120b-6a78-d0e7dd31345a/cover.jpg/600x600bb.jpg",
+    "album": "Dookudu (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/0e/f7/220ef753-f1f8-330a-6f7f-9b574afc472e/mzaf_5490657473777604748.plus.aac.p.m4a"
+  },
+  "salam rocky bhai (telugu)|vijay prakash": {
+    "listen_url": "https://music.apple.com/in/album/salam-rocky-bhai-telugu/1799635505?i=1799635506&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/dd/f2/55ddf2fd-a660-98ee-6d25-b9fb2086d5e5/8905936011347.jpg/600x600bb.jpg",
+    "album": "KGF Chapter 1 (Telugu) [Original Motion Picture Soundtrack]",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/67/da/8167da08-5172-f6e5-8662-c917e7cac916/mzaf_2552398350859816640.plus.aac.p.m4a"
+  },
+  "fire song (telugu)|anurag kulkarni & deepthi suresh": {
+    "listen_url": "https://music.apple.com/in/album/fire-song-from-kanguva/1758907502?i=1758907652&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/59/4d/81594d70-c327-ae09-4751-451971b4d0c7/198588796115.jpg/600x600bb.jpg",
+    "album": "Fire Song (From \"Kanguva\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/90/88/ce9088f9-63f8-f158-e444-8ddbf86faae6/mzaf_14866708122354144501.plus.aac.p.m4a"
+  },
+  "bhairava anthem (telugu)|diljit dosanjh & deepak blue": {
+    "listen_url": "https://music.apple.com/in/album/bhairava-anthem-from-kalki-2898-ad/1752368125?i=1752368129&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/8e/31/e78e31e9-b22a-f3bc-d4a2-32eebd1b9878/198588442685.jpg/600x600bb.jpg",
+    "album": "Bhairava Anthem (From \"Kalki 2898 Ad\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/84/f9/ed84f902-f3f8-ee2c-98bb-a0947be26e52/mzaf_17105650281704633922.plus.aac.p.m4a"
+  },
+  "naatu naatu|rahul sipligunj & kaala bhairava": {
+    "listen_url": "https://music.apple.com/in/album/naatu-naatu-from-rrr/1594544793?i=1594544794&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/39/14/dd3914e5-a2f3-b355-51f3-9a1f0e3ca246/8903431853592_cover.jpg/600x600bb.jpg",
+    "album": "Naatu Naatu (From \"RRR\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/dd/a4/8edda474-3fe1-3fe6-43d3-765db520a29b/mzaf_11740310005222997767.plus.aac.p.m4a"
+  },
+  "ranguladdhukunna (lofi mix)|yazin nizar & haripriya": {
+    "listen_url": "https://music.apple.com/in/album/ranguladdhukunna/1554430307?i=1554430585&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/82/f8/5882f81c-12fc-d136-326e-060d2ba1141e/cover.jpg/600x600bb.jpg",
+    "album": "Uppena (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/14/0b/d6140b7f-f506-1460-e8fe-048b8601cbc3/mzaf_1555259141629902967.plus.aac.p.m4a"
+  },
+  "gundellonaa (lofi mix)|anirudh ravichander": {
+    "listen_url": "https://music.apple.com/in/album/gundellonaa-lofi-mix/1701387980?i=1701387991&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/4d/f2/224df2d7-811d-33f4-a51d-30f58452809c/197189646591.jpg/600x600bb.jpg",
+    "album": "Gundellonaa (Lofi Mix) - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5f/1c/74/5f1c74e9-fb41-eea5-f954-5e945503f56d/mzaf_861823755159379468.plus.aac.p.m4a"
+  },
+  "samajavaragamana (lo-fi mix)|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/samajavaragamana/1493907854?i=1493907867&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/46/14/df/4614df1c-3f61-6bf5-5c3e-ee304895cfca/cover.jpg/600x600bb.jpg",
+    "album": "Ala Vaikunthapurramuloo (Original Motion Pictures Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/22/44/ad224483-fb25-67ae-71cd-d1da020127ae/mzaf_17415433725855260412.plus.aac.p.m4a"
+  },
+  "kalaavathi (lo-fi mix)|sid sriram": {
+    "listen_url": "https://music.apple.com/in/album/kalaavathi-lofi-beats/6806217726?i=6806217728&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/2a/58/962a588f-492c-9dd0-4145-9382273a93a1/885288409475.jpg/600x600bb.jpg",
+    "album": "Kalaavathi (LoFi Beats) - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/c5/52/42c55284-a61a-ba4c-39cd-a402fec528c7/mzaf_12463890626703598499.plus.aac.p.m4a"
+  },
+  "rendu kallu (chill lofi)|armaan malik": {
+    "listen_url": "https://music.apple.com/in/album/rendu-kallu-chill-lofi/1695534395?i=1695534398&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/6e/6b/f46e6b2d-9761-a61a-1b1f-cae40eaa47bf/197189294839.jpg/600x600bb.jpg",
+    "album": "Rendu Kallu (Chill Lofi) - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/82/a7/39/82a739ff-2d00-2f22-429a-e425901f798d/mzaf_16249176183431951844.plus.aac.p.m4a"
+  },
+  "urike urike (lo-fi)|sid sriram & ramya behara": {
+    "listen_url": "https://music.apple.com/in/album/urike-urike-lofi-hiphop/6803429869?i=6803429872&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/0e/d6/880ed67f-85d6-6a28-413b-9ae04e7806c6/885288320275.jpg/600x600bb.jpg",
+    "album": "Urike Urike (LoFi HipHop) - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/9a/ca/519aca88-9092-7948-d400-3f27670b85f5/mzaf_2833532594755668255.plus.aac.p.m4a"
+  },
+  "chamkeela angeelesi (lofi mix)|ram miriyala & dhee": {
+    "listen_url": "https://music.apple.com/in/album/chamkeela-angeelesi-from-dasara/1676212773?i=1676212781&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/fa/31/f1fa3174-2f3c-b479-ef62-58778d7f23b9/197188292089.jpg/600x600bb.jpg",
+    "album": "Chamkeela Angeelesi (From \"Dasara\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8c/fc/56/8cfc5682-1e7f-1d71-c29d-0df21c8e4f12/mzaf_14446436355118617105.plus.aac.p.m4a"
+  },
+  "nannu vadali|ghantasala & p. susheela": {
+    "listen_url": "https://music.apple.com/in/album/nannu-vadali/1681051709?i=1681052089&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/9d/e8/399de825-d5c0-34c5-a632-81bb1574e147/197188622770.jpg/600x600bb.jpg",
+    "album": "Ghantasala's Googly Hits",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/61/2b/46/612b4602-10f0-cebf-c40b-d76e589cbeb7/mzaf_12944733766852316327.plus.aac.p.m4a"
+  },
+  "brindhavana midhi|a. m. rajah & p. susheela": {
+    "listen_url": "https://music.apple.com/in/album/brindhavana-midhi/1368398132?i=1368398391&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/b8/c2/37b8c279-93d5-edd9-b5f1-90b45c9fa658/192562328583.jpg/600x600bb.jpg",
+    "album": "Missamma (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/8f/02/078f02ce-13c3-54ee-8eef-45ecbc4ff3b4/mzaf_11704017406025140797.plus.aac.p.m4a"
+  },
+  "naa paata nee nota|ghantasala & p. susheela": {
+    "listen_url": "https://music.apple.com/in/album/naa-paata-nee-nota-from-mooga-manasulu/1380231818?i=1380232782&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1d/87/58/1d8758bf-40e1-2d0e-98ce-272459279ce3/192562483879.jpg/600x600bb.jpg",
+    "album": "The King of Melody - Ghantasala Hits",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/bc/fe/dbbcfe9c-e790-9a91-2bad-2c9d2d03dcd9/mzaf_13217606514596945687.plus.aac.p.m4a"
+  },
+  "oho meghamaala|ghantasala & p. leela": {
+    "listen_url": "https://music.apple.com/in/album/oho-meghamaala/1698951998?i=1698952317&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/92/d1/73/92d17349-b606-5cdc-579b-5f15d1afcb7d/197189467554.jpg/600x600bb.jpg",
+    "album": "Ghantasala Rain Melodies",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/05/0b/e3/050be32e-8ad2-7449-3bae-46c81e2141fd/mzaf_14948591352051853429.plus.aac.p.m4a"
+  },
+  "nannu dochu kunduvatey|p. susheela & ghantasala": {
+    "listen_url": "https://music.apple.com/in/album/nannu-dochu-kunduvatey/1410101046?i=1410102404&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/0b/15/220b15b1-68a7-4853-1ec5-9f81a290d4bb/191773243159.jpg/600x600bb.jpg",
+    "album": "Gulebakaavali Katha (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/c1/6f/92c16fde-a60e-3f9e-a078-fb2c89b26a41/mzaf_10540734876629630753.plus.aac.p.m4a"
+  },
+  "pagale vennela|s. janaki": {
+    "listen_url": "https://music.apple.com/in/album/pagale-vennela/1328786431?i=1328786456&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/68/8f/bf/688fbf3f-1ae7-46d7-891a-69fe99ec53e9/191773249779.jpg/600x600bb.jpg",
+    "album": "Pooja Phalamu (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/8b/6f/0e8b6f2d-54a5-aae7-2ca2-4b2251034912/mzaf_6115057413318509339.plus.aac.p.m4a"
+  },
+  "chitapata chinukulu|s. p. balasubrahmanyam & k. s. chithra": {
+    "listen_url": "https://music.apple.com/in/album/chitapata-chinukulu/1836864601?i=1836864603&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/3b/72/8c3b729e-66e3-0f1f-ae3c-5a776bbec675/8905750007427.jpg/600x600bb.jpg",
+    "album": "Rowdy Inspector (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/44/34/63443482-cfa7-72c4-9905-adf3267615f5/mzaf_13294196558328266509.plus.aac.p.m4a"
+  },
+  "telephone dhwani la|hariharan & harini": {
+    "listen_url": "https://music.apple.com/in/album/telephone-dhwani-la-from-bharateeyudu/1790600881?i=1790600898&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/28/be/c228be0e-670b-7eb9-6433-43da7c0289e8/8903431040725_cover.jpg/600x600bb.jpg",
+    "album": "A.R. Rahman Ultimate Hit Songs",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/32/aa/6b32aa24-0073-3c8a-288c-b44fed3bfcb2/mzaf_16942762704222606833.plus.aac.p.m4a"
+  },
+  "pachani chilukalu|k. j. yesudas": {
+    "listen_url": "https://music.apple.com/in/album/pachani-chilukalu-from-bharateeyudu/1790600881?i=1790600889&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/28/be/c228be0e-670b-7eb9-6433-43da7c0289e8/8903431040725_cover.jpg/600x600bb.jpg",
+    "album": "A.R. Rahman Ultimate Hit Songs",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/94/a5/2e94a5ef-9ee9-31db-80a3-355424685c6c/mzaf_6096366023390125031.plus.aac.p.m4a"
+  },
+  "yedo yedo|karthik & harini ivaturi": {
+    "listen_url": "https://music.apple.com/in/album/yedo-yedo-from-khel-khatam-darwajaa-bandh/1839432869?i=1839432875&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/9d/48/a49d4835-8de7-cf02-1438-3a1c8c3ec464/3617393866464.jpg/600x600bb.jpg",
+    "album": "Yedo Yedo (From \"Khel Khatam Darwajaa Bandh\") - Single",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/99/a4/9699a41a-15c2-eb32-96f7-304e1fe936fd/mzaf_18380207776780135080.plus.aac.p.m4a"
+  },
+  "chal chalo chalo|raghu dixit, sooraj santhosh & rita": {
+    "listen_url": "https://music.apple.com/in/album/chal-chalo-chalo/977123029?i=977123030&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/1c/bb/f11cbbac-51a4-9bba-fa08-5efc6c3880db/cover.jpg/600x600bb.jpg",
+    "album": "S/O Satyamurthy (Original Motion Picture Soundtrack)",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/30/65/3d306596-c228-4abf-a2b7-65fb6c7172b9/mzaf_5586251245253106515.plus.aac.p.m4a"
+  },
+  "vennelave vennelave|hariharan & sadhana sargam": {
+    "listen_url": "https://music.apple.com/in/album/vennelave-vennelave-from-merupu-kalalu/1740083802?i=1740084022&uo=4",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/f6/a2/57f6a2b6-392c-6264-0afc-2844cc3ddcb4/8903431990365_cover.jpg/600x600bb.jpg",
+    "album": "Hariharan Evergreen Birthday Hits",
+    "source": "Apple iTunes Search catalog",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/5b/de/5e5bdef3-3daa-eef5-dbd8-ca8ec744974c/mzaf_8928779026793339013.plus.aac.p.m4a"
   }
 }

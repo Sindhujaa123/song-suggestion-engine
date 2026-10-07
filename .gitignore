@@ -5,3 +5,4 @@ venv/
 .env
 .streamlit/secrets.toml
 .pytest_cache/
+streamlit-local.*.log
