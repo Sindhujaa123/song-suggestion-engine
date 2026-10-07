@@ -66,7 +66,8 @@ def render_song(song: dict[str, object], index: int, media_index: dict[str, dict
     safe_title, safe_artist, safe_why = escape(title), escape(artist), escape(why)
     language = f' · {escape(str(song["language"]))}' if song.get("language") else ""
     media = media_index.get(f"{title.casefold()}|{artist.casefold()}", {})
-    listen_url = media.get("listen_url", "")
+    listen_url = media.get("listen_url") or str(song.get("listen_url", ""))
+    source_url = str(song.get("source_url", ""))
     artwork = media.get("artwork_url")
     cover = f'<img class="art-placeholder" src="{escape(artwork, quote=True)}" alt="Album artwork">' if artwork else '<div class="art-placeholder" aria-label="Album artwork unavailable">♫</div>'
     st.markdown(
@@ -81,7 +82,10 @@ def render_song(song: dict[str, object], index: int, media_index: dict[str, dict
     left, right = st.columns([1, 5])
     if listen_url:
         with left:
-            st.link_button("Listen ↗", listen_url, use_container_width=True, key=f"listen-{index}-{title.casefold()}")
+            st.link_button("Find on YouTube Music" if song.get("language") == "Telugu" else "Listen ↗", listen_url, use_container_width=True, key=f"listen-{index}-{title.casefold()}")
+    if source_url and song.get("language") == "Telugu":
+        with right:
+            st.link_button("Curation source", source_url, key=f"source-{index}-{title.casefold()}")
     if media.get("preview_url"):
         with right:
             st.audio(media["preview_url"], format="audio/mp4")
@@ -109,7 +113,7 @@ def main() -> None:
     else:
         songs = [song for song in SONGS if song["mood"] == mood]
     songs.sort(key=lambda song: int(song["score"]), reverse=True)
-    st.info("Mood scores are editorial fits, not audio-feature calculations. Direct listening links, artwork, and available official previews are bundled; energy and BPM data are unavailable offline.")
+    st.info("Mood scores are editorial fits, not audio-feature calculations. Telugu picks include a YouTube Music search link and a source used for curation. Official previews, artwork, energy, and BPM appear only when bundled data is available.")
     st.markdown(f"**{len(songs)} curated picks** · {market} · bundled locally · no catalog requests")
     left, right = st.columns(2)
     for index, song in enumerate(songs):
